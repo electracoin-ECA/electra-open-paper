@@ -6,15 +6,11 @@ Electra's goal is to become the electric current of the cryptocurrency community
 
 Electra is a unique cryptocurrency in that it is both a development project and a contract. Despite being a fully operational cryptocurrency at present, Electra is an ongoing development project subject to review, innovation, and updating. Electra is also a contract in that it offers the investor full participation in the development process, including but not limited to the following. 
 
-    * Access to Electra community
-
-    * The right to obtain project information
-
-    * Involvement in  development decisions
-
-    * Comprehensive voting rights
-
-    * Access to technical support
+ * Access to Electra community
+ * The right to obtain project information
+ * Involvement in  development decisions
+ * Comprehensive voting rights
+ * Access to technical support
 
 The Electra Blockchain and the ECA coin is a product of the combined skills and abilities of an ever-growing community of coders, developers, business professionals and other contributors. ECA is built on a fully functional and feature rich blockchain with a stable and solid foundation. This foundation provides the reliable platform needed for our talented community of developers to innovate, invent and build upon. Blockchain technology evolves on a daily basis. As this technology improves, ECA's foundation will expand and grow in tandem with the latest innovations.
 
@@ -28,9 +24,12 @@ Through this process, participants within the economic system are no longer rele
 
 # Electrifying the Cryptocurrency Community
 
-Electra is more than a common digital currency. It is a currency backed by an entire community of dedicated individuals. Electra’s goal is to create the strongest possible community of individuals who all share the same philosophy of change with regards to global monetary systems. Through transparency and empowerment, we are shining a new light on a darkening system. This is not a zero sum game; this is Electra.Our vision for Electra is that it becomes the largest and most active cryptocurrency community within the market space. An active global community provides investors an opportunity to assume roles as active players and contributors. Electra is not only a decentralized organization, but a unique and powerful revolution based on shared ownership and collaboration among the skilled experts throughout our community.
+Electra is more than a common digital currency. It is a currency backed by an entire community of dedicated individuals. Electra’s goal is to create the strongest possible community of individuals who all share the same philosophy of change with regards to global monetary systems. Through transparency and empowerment, we are shining a new light on a darkening system. This is not a zero sum game; this is Electra.
 
-## 	Investor Benefit
+Our vision for Electra is that it becomes the largest and most active cryptocurrency community within the market space. An active global community provides investors an opportunity to assume roles as active players and contributors. Electra is not only a decentralized organization, but a unique and powerful revolution based on shared ownership and collaboration among the skilled experts throughout our community.
+
+## 
+	Investor Benefit
 
 ECA investors hold a stake in the Electra organization and are encouraged to become directly involved in the development process. All investors are owners of both the cryptocurrency and the entire structure that exists behind the project.
 
@@ -94,7 +93,8 @@ The underlying blockchain of the ECA coin utilizes a modified version of the NIS
 
 * Fee: 0.00001 ECA
 
-**Purpose and Use of Pre-mined ECA
+*
+*Purpose and Use of Pre-mined ECA
 
 1,000,000,019 (approximately 3.34%) ECA were pre-mined using Proof of Work (PoW) mining. Pre-mined funds are maintained by a trusted Community Funds Manager. Distribution and use of funds is determined by community consensus. Pre-mined funds will be used for various purposes including but not limited to the following:
 
@@ -192,7 +192,8 @@ Integrated Merchant & User Support
 
 At Electra we understand that the idea of managing a digital wallet and using digital currencies may be a little daunting for some. We are integrating a community support system into the Electra family of products. Regardless of where you are located around the world, there will be someone from the 10,000 plus member community that will be able to provide you with support and assistance using the Electra Payments Gateway and other Electra products and services.
 
-## ElectraPay
+## 
+ElectraPay
 
 ElectraPay is a community driven payment solution for merchants. The codebase consists of a centralized payment facility connected to plugins available for most e-commerce platforms (Magento, WooCommerce, Shopify, etc.).
 
@@ -200,7 +201,8 @@ The ElectraPay system allows merchants to receive payments for their goods and s
 
 When the ElectraPay system detects initiation of a payment, it sends a validation call to the merchant’s website and routes the ECA through the ElectraPay system to obfuscate the final payment address. Merchants using this plugin can be confident that their transactions and wallets are secure and concealed from the customer. 
 
-Merchants will easily be able to install the ElectraPay plugin to their online stores and the plugin is fully customizable to suit the merchant’s needs. Merchants wanting to use custom code in their own payment page will be able to do so with the open ElectraPay API.
+
+Merchants will easily be able to install the ElectraPay plugin to their online stores and the plugin is fully customizable to suit the merchant’s needs. Merchants wanting to use custom code in their own payment page will be able to do so with the open ElectraPay API.
 
 Below is a chart showing the various building blocks of the ElectraPay system.
 
@@ -432,7 +434,8 @@ The Web Interface is the front-end interface between the user and ECA Core and i
 
 * Create educational material for Electra
 
-**Q1 2018:**
+**Q1 2018:
+**
 
 * Impact marketing campaign launched to increase awareness of Electra
 
