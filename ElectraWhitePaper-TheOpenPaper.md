@@ -6,15 +6,15 @@ Electra's goal is to become the electric current of the cryptocurrency community
 
 Electra is a unique cryptocurrency in that it is both a development project and a contract. Despite being a fully operational cryptocurrency at present, Electra is an ongoing development project subject to review, innovation, and updating. Electra is also a contract in that it offers the investor full participation in the development process, including but not limited to the following. 
 
-    * Access to Electra community
+* Access to Electra community
 
-    * The right to obtain project information
+* The right to obtain project information
 
-    * Involvement in  development decisions
+* Involvement in  development decisions
 
-    * Comprehensive voting rights
+* Comprehensive voting rights
 
-    * Access to technical support
+* Access to technical support
 
 The Electra Blockchain and the ECA coin is a product of the combined skills and abilities of an ever-growing community of coders, developers, business professionals and other contributors. ECA is built on a fully functional and feature rich blockchain with a stable and solid foundation. This foundation provides the reliable platform needed for our talented community of developers to innovate, invent and build upon. Blockchain technology evolves on a daily basis. As this technology improves, ECA's foundation will expand and grow in tandem with the latest innovations.
 
