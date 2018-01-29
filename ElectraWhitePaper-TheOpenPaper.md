@@ -1,4 +1,4 @@
-# **Abstract**
+# Abstract
 
 Electra is an open-source community cryptocurrency project featuring decentralized and distributed governance. Electra's foundation is a blockchain based on the NIST5 algorithm, guaranteeing fast and secure transactions with nearly non-existent transaction costs.
 
@@ -28,9 +28,11 @@ Through this process, participants within the economic system are no longer rele
 
 # Electrifying the Cryptocurrency Community
 
-Electra is more than a common digital currency. It is a currency backed by an entire community of dedicated individuals. Electra’s goal is to create the strongest possible community of individuals who all share the same philosophy of change with regards to global monetary systems. Through transparency and empowerment, we are shining a new light on a darkening system. This is not a zero sum game; this is Electra.Our vision for Electra is that it becomes the largest and most active cryptocurrency community within the market space. An active global community provides investors an opportunity to assume roles as active players and contributors. Electra is not only a decentralized organization, but a unique and powerful revolution based on shared ownership and collaboration among the skilled experts throughout our community.
+Electra is more than a common digital currency. It is a currency backed by an entire community of dedicated individuals. Electra’s goal is to create the strongest possible community of individuals who all share the same philosophy of change with regards to global monetary systems. Through transparency and empowerment, we are shining a new light on a darkening system. This is not a zero sum game; this is Electra.
 
-## 	Investor Benefit
+Our vision for Electra is that it becomes the largest and most active cryptocurrency community within the market space. An active global community provides investors an opportunity to assume roles as active players and contributors. Electra is not only a decentralized organization, but a unique and powerful revolution based on shared ownership and collaboration among the skilled experts throughout our community.
+
+## Investor Benefit
 
 ECA investors hold a stake in the Electra organization and are encouraged to become directly involved in the development process. All investors are owners of both the cryptocurrency and the entire structure that exists behind the project.
 
@@ -94,7 +96,8 @@ The underlying blockchain of the ECA coin utilizes a modified version of the NIS
 
 * Fee: 0.00001 ECA
 
-**Purpose and Use of Pre-mined ECA
+
+## Purpose and Use of Pre-mined ECA
 
 1,000,000,019 (approximately 3.34%) ECA were pre-mined using Proof of Work (PoW) mining. Pre-mined funds are maintained by a trusted Community Funds Manager. Distribution and use of funds is determined by community consensus. Pre-mined funds will be used for various purposes including but not limited to the following:
 
@@ -192,7 +195,7 @@ Integrated Merchant & User Support
 
 At Electra we understand that the idea of managing a digital wallet and using digital currencies may be a little daunting for some. We are integrating a community support system into the Electra family of products. Regardless of where you are located around the world, there will be someone from the 10,000 plus member community that will be able to provide you with support and assistance using the Electra Payments Gateway and other Electra products and services.
 
-## ElectraPay
+## ElectraPay
 
 ElectraPay is a community driven payment solution for merchants. The codebase consists of a centralized payment facility connected to plugins available for most e-commerce platforms (Magento, WooCommerce, Shopify, etc.).
 
@@ -200,17 +203,17 @@ The ElectraPay system allows merchants to receive payments for their goods and s
 
 When the ElectraPay system detects initiation of a payment, it sends a validation call to the merchant’s website and routes the ECA through the ElectraPay system to obfuscate the final payment address. Merchants using this plugin can be confident that their transactions and wallets are secure and concealed from the customer. 
 
-Merchants will easily be able to install the ElectraPay plugin to their online stores and the plugin is fully customizable to suit the merchant’s needs. Merchants wanting to use custom code in their own payment page will be able to do so with the open ElectraPay API.
+Merchants will easily be able to install the ElectraPay plugin to their online stores and the plugin is fully customizable to suit the merchant’s needs. Merchants wanting to use custom code in their own payment page will be able to do so with the open ElectraPay API.
 
 Below is a chart showing the various building blocks of the ElectraPay system.
 
-SocialPay
+## SocialPay
 
 SocialPay by Electra is an automated application that enables individuals and organizations to leverage the power of Social Media. This is accomplished by initiating ECA transactions on a large scale, allowing content providers and organizations to send or receive ECA from their existing Social Media audiences. 
 
 Electra’s Social Pay application is currently integrated with the platforms of Twitter, Telegram, Discord and Slack. As development of this service continues additional Social Media platforms will be added to include Facebook, Reddit, Instagram, Weibo, and others.
 
-Who Is SocialPay For?
+### Who Is SocialPay For?
 
 The current version of SocialPay is designed for communities who would like to send or receive ECA using their favorite Social Media platform. SocialPay allows users to send and receive ECA by simply posting a message to their Social Media account. This message can be either public or private.
 
@@ -230,7 +233,7 @@ Provided below is an example of how SocialPay may be used.
 
 Future developments within Electra’s SocialPay application are aimed at expanding the possible field of Social Media participants.
 
-**Atomic Swaps**
+## Atomic Swaps
 
 Why Atomic Swaps ?
 
@@ -260,7 +263,7 @@ For example, if a consumer wanted to use ECA to pay for pizza at a restaurant th
 
 It is easy to see why the process is not currently used in commercial interactions at the retail level.
 
- Applying Atomic Swaps
+### Applying Atomic Swaps
 
 The following is a list of operations that would be required when employing Atomic Swap technology for the same transaction: paying for pizza with ECA at an establishment that accepts only Bitcoin.
 
@@ -432,7 +435,7 @@ The Web Interface is the front-end interface between the user and ECA Core and i
 
 * Create educational material for Electra
 
-**Q1 2018:**
+**Q1 2018:**
 
 * Impact marketing campaign launched to increase awareness of Electra
 
@@ -532,7 +535,7 @@ The Electra Community is rapidly expanding and organizing in new ways.  During t
 
 Join Electra’s Discord server and meet our community of developers, contributors, moderators, Electrans and community members.*  *Decisions regarding team membership are made by community consensus.* *Participation of team members is subject to change based on the needs and desires of the community.
 
-*[https://discord.gg/XP7nSh*h](https://discord.gg/XP7nShh)
+* [https://discord.gg/XP7nShh](https://discord.gg/XP7nShh)
 
 
 
