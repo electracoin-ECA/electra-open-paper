@@ -1,4 +1,4 @@
-#Electra White Paper - The Open Paper
+# Electra White Paper - The Open Paper
 
 30 January 2018
 
@@ -30,7 +30,7 @@ Participants within the traditional economic structure are attempting to employ 
 
 Through this process, participants within the economic system are no longer relegated to being mere consumers. Electra returns the power to the people, and assigns members of the community an active role in the evolution of our economic and monetary systems.
 
-#Table of Contents
+# Table of Contents
 
 - [Abstract](#abstract)
 - [Electrifying the Cryptocurrency Community](#electrifying-the-cryptocurrency-community)
@@ -50,10 +50,10 @@ Through this process, participants within the economic system are no longer rele
 - [Electra Ecosystem](#electra-ecosystem)
 	- [The Electra Family of Products](#the-electra-family-of-products)  
 	- [Electra Services](#electra-services)
-      - [Integrated Merchant and User Support](integrated-merchant-and-user-support)
+      - [Integrated Merchant and User Support](#integrated-merchant-and-user-support)
 	- [ElectraPay](#electrapay)  
 	   - [SocialPay](#socialpay)
-       - [Who Is SocialPay For?](who-is-socialpay-for)
+       - [Who Is SocialPay For?](#who-is-socialpay-for)
     - [Atomic Swaps](#atomic-swaps)
        - [Applying Atomic Swaps](#applying-atomic-swaps)
     - [Master Nodes](#master-nodes)
@@ -236,9 +236,11 @@ The following services will be provided across all products offered by Electra:
 
 * Web Wallet
 
-###Integrated Merchant and User Support
+### Integrated Merchant and User Support
 
 At Electra we understand that the idea of managing a digital wallet and using digital currencies may be a little daunting for some. We are integrating a community support system into the Electra family of products. Regardless of where you are located around the world, there will be someone from the 10,000 plus member community that will be able to provide you with support and assistance using the Electra Payments Gateway and other Electra products and services.
+
+![image alt text](Electra-accepted.png)
 
 ## ElectraPay
 
@@ -251,6 +253,8 @@ When the ElectraPay system detects initiation of a payment, it sends a validatio
 Merchants will easily be able to install the ElectraPay plugin to their online stores and the plugin is fully customizable to suit the merchant’s needs. Merchants wanting to use custom code in their own payment page will be able to do so with the open ElectraPay API.
 
 Below is a chart showing the various building blocks of the ElectraPay system.
+
+![image alt text](Electrapay.png)
 
 ## SocialPay
 
