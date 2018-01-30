@@ -1,4 +1,8 @@
-# Abstract
+#Electra White Paper - The Open Paper
+
+30 January 2018
+
+### Abstract
 
 Electra is an open-source community cryptocurrency project featuring decentralized and distributed governance. Electra's foundation is a blockchain based on the NIST5 algorithm, guaranteeing fast and secure transactions with nearly non-existent transaction costs.
 
@@ -25,6 +29,43 @@ The opportunity for dramatic change within a developing ecosystem is unfortunate
 Participants within the traditional economic structure are attempting to employ old logic and adapt to the ongoing restructuring of our economic system, subverting the original intent behind the cryptocurrency movement. The need exists for the cryptocurrency community at large to recapture the original spirit behind decentralization and disintermediation. The Electra Project is an effective response to this need. ECA owners are no longer just investors in a cryptocurrency. Instead, by being directly involved in the decision making process, investors take part in the entire underlying structure: code innovation, design, marketing, community building, and strategic business development.
 
 Through this process, participants within the economic system are no longer relegated to being mere consumers. Electra returns the power to the people, and assigns members of the community an active role in the evolution of our economic and monetary systems.
+
+#Table of Contents
+
+- [Abstract](#abstract)
+- [Electrifying the Cryptocurrency Community](#electrifying-the-cryptocurrency-community)
+   - [Investor Benefit](#investor-benefit)
+   - [Innovative and Open Development Process](#innovative-and-open-development-process)
+   - [Electra Sets New Standards for Cryptocurrencies](#electra-sets-new-standards-for-cryptocurrencies)
+- [Current Technology](#current-technology)
+	- [The Algorithm](#the-algorithm)
+	- [The Electra Blockchain](#the-electra-blockchain) 
+	- [Purpose and Use of Pre-mined ECA](#purpose-and-use-of-pre-mined-eca)
+	- [Fast Payments](#fast-payments) 
+	- [Transaction Fees Approaching Zero](#transaction-fees-approaching-zero)
+	- [Staking Rewards](#staking-rewards)
+	- [Optional Privacy](#optional-privacy)  
+	- [Environmentally Friendly](#environmentally-friendly)
+- [Future Technology](#future-technology)
+- [Electra Ecosystem](#electra-ecosystem)
+	- [The Electra Family of Products](#the-electra-family-of-products)  
+	- [Electra Services](#electra-services)
+      - [Integrated Merchant and User Support](integrated-merchant-and-user-support)
+	- [ElectraPay](#electrapay)  
+	   - [SocialPay](#socialpay)
+       - [Who Is SocialPay For?](who-is-socialpay-for)
+    - [Atomic Swaps](#atomic-swaps)
+       - [Applying Atomic Swaps](#applying-atomic-swaps)
+    - [Master Nodes](#master-nodes)
+- [Web Wallet](#web-wallet)
+- [Roadmap](#roadmap)
+    - [Milestones Achieved](#milestones-achieved)
+    - [Planned Goals and Objectives](#planned-goals-and-objectives)
+- [Updates and Upgrades to this White Paper](#updates-and-upgrades-to-this-white-paper)
+- [The Open Paper](#the-open-paper)
+- [Electra Team](#electra-team)
+- [Disclaimer](#disclaimer)
+
 
 # Electrifying the Cryptocurrency Community
 
@@ -75,6 +116,10 @@ ECA is built using an algorithm that guarantees security; NIST5. NIST5  is an al
 * Keccak
 
 * Skein
+
+![image alt text](Nist5-algorithms-1.png)
+
+![image alt text](Nist5-algorithms-2.png)
 
 ** NIST Competition Summary   [http://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7896.pdf](http://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7896.pdf)    
 
@@ -191,7 +236,7 @@ The following services will be provided across all products offered by Electra:
 
 * Web Wallet
 
-Integrated Merchant & User Support
+###Integrated Merchant and User Support
 
 At Electra we understand that the idea of managing a digital wallet and using digital currencies may be a little daunting for some. We are integrating a community support system into the Electra family of products. Regardless of where you are located around the world, there will be someone from the 10,000 plus member community that will be able to provide you with support and assistance using the Electra Payments Gateway and other Electra products and services.
 
