@@ -454,7 +454,7 @@ The Web Interface is the front-end interface between the user and ECA Core and i
 
 # Roadmap
 
-## Below you will find a truncated version of our roadmap current as of the time of this publication for reference. For the most current version and additional detail regarding our roadmap please visit [insert link to online roadmap]
+## Below you will find a truncated version of our roadmap current as of the time of this publication for reference. For the most current version and additional detail regarding our roadmap please visit https://electraproject.org/road-map
 
 ## Milestones Achieved
 
@@ -929,6 +929,10 @@ Members of the community with voting rights.  ECA investors who participate in c
 * yuliasih [@yuliasih#1205]
 
 * Zarag [@Zarag#2781]
+
+# Electra01’s Vision
+
+*The main goals I had when creating Electra was for it to be able to remain active indefinitely and easy to use. A key component to achieve these goals is an active community. In less than a year, the community has progressed immensely and is a completely self-governing entity that can act without my interference. The whitepaper itself is written by the community which may be a first in the blockchain sector. The current parameters of Electra take into account security, privacy, speed and efficiency. It is a solid template to build upon. The new community roadmap is ambitious and aims to make Electra a premier cryptocurrency. For these goals, as well as my own, the development team has been expanded and will also eventually become self-governing. Just as I have done so far, I will aid Electra’s expansion and provide funding when necessary for future endeavours.*
 
 # Disclaimer
 
