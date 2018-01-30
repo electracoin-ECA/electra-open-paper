@@ -64,6 +64,7 @@ Through this process, participants within the economic system are no longer rele
 - [Updates and Upgrades to this White Paper](#updates-and-upgrades-to-this-white-paper)
 - [The Open Paper](#the-open-paper)
 - [Electra Team](#electra-team)
+- [Electra01's Vision](#electra01s-vision)
 - [Disclaimer](#disclaimer)
 
 
