@@ -118,9 +118,9 @@ ECA is built using an algorithm that guarantees security; NIST5. NIST5  is an al
 
 * Skein
 
-![image alt text](Nist5-algorithms-1.png)
+![image alt text](images/Nist5-algorithms-1.png)
 
-![image alt text](Nist5-algorithms-2.png)
+![image alt text](images/Nist5-algorithms-2.png)
 
 ** NIST Competition Summary   [http://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7896.pdf](http://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7896.pdf)    
 
@@ -241,7 +241,7 @@ The following services will be provided across all products offered by Electra:
 
 At Electra we understand that the idea of managing a digital wallet and using digital currencies may be a little daunting for some. We are integrating a community support system into the Electra family of products. Regardless of where you are located around the world, there will be someone from the 10,000 plus member community that will be able to provide you with support and assistance using the Electra Payments Gateway and other Electra products and services.
 
-![image alt text](Electra-accepted.png)
+![image alt text](images/Electra-accepted.png)
 
 ## ElectraPay
 
@@ -255,7 +255,7 @@ Merchants will easily be able to install the ElectraPay plugin to their online s
 
 Below is a chart showing the various building blocks of the ElectraPay system.
 
-![image alt text](Electrapay.png)
+![image alt text](images/Electrapay.png)
 
 ## SocialPay
 
@@ -289,7 +289,7 @@ Why Atomic Swaps ?
 
 Thousands of cryptocurrencies are currently in existence and the number continues to grow exponentially as blockchain technology is adopted.  It remains a complex task to exchange one cryptocurrency for another when payment needs require different currencies. Cryptocurrency transactions are currently not reversible. This requires the use of a trusted third party to ensure that both sides of a transaction are resolved, so exchanges are used to accomplish the trading of different cryptocurrencies. The Electra community understands the need to fill this void. Atomic Swaps is the answer.
 
-![image alt text](image_0.png)
+![image alt text](images/image_0.png)
 
 Electra’s atomic swap architecture generates a hash-time-locked contract, which uses multi-signature addresses and time locks to secure the transaction at an agreed upon price.
 
@@ -353,9 +353,9 @@ To initiate and run a Master Node, Electra community members apply to the core d
 
 The Mobile Extension Interface (MEI) allows the end user to access their web wallet from a personal device. The MEI integrates with other 3rd party applications (Whatsapp, Telegram, address book) allowing the user to employ the Electra SocialPay service to send ECA via Social Media.
 
-![image alt text](image_1.png)
+![image alt text](images/image_1.png)
 
-![image alt text](image_2.png)
+![image alt text](images/image_2.png)
 
 **Wallet Subsystem**
 
@@ -411,7 +411,7 @@ The ECA Core is the backend engine consisting of the following modules:
 
     * Wallet information including balances and staking
 
-![image alt text](image_3.png)
+![image alt text](images/image_3.png)
 
 **Web Interface**
 
