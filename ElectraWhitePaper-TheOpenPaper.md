@@ -64,7 +64,7 @@ Through this process, participants within the economic system are no longer rele
 - [Updates and Upgrades to this White Paper](#updates-and-upgrades-to-this-white-paper)
 - [The Open Paper](#the-open-paper)
 - [Electra Team](#electra-team)
-- [Electra01's Vision](#electra01s-vision)
+- [Founder's Vision](#founders-vision)
 - [Disclaimer](#disclaimer)
 
 
@@ -593,39 +593,39 @@ Management & Development Team
 
 The Electra Management & Development Team consists of core developers, project managers, community managers, UI/UX designers, web designers and marketing developers.
 
-* Admin [@Admin#8523]
+* Admin [@Admin#8523] 
 
-* sols [@sols#3895]
+* sols [@sols#3895] 
 
-* jax [@jax#0250]
+* jax [@jax#0250] 
 
-* Kurcide [@Kurcide#5698]
+* Kurcide [@Kurcide#5698] 
 
-* Renat_77 [@Renat_77#0464]
+* Renat_77 [@Renat_77#0464] 
 
-* Sarah [@Sarah#3781]
+* Sarah [@Sarah#3781] 
 
 * scibot [@scibot#3330]
 
-* Zewior [@Zewior#9267]
+* Zewior [@Zewior#9267] 
 
-* Studly [@Studly#2360]
+* Studly [@Studly#2360] 
 
-* boiiii [@boiiii#7402]
+* boiiii [@boiiii#7402] 
 
-* Stefs [@Stefs#2147]
+* Stefs [@Stefs#2147] 
 
-* cybergipsy [@cybergipsy#2912]
+* cybergipsy [@cybergipsy#2912] 
 
-* CryptBay[@CryptBay#8978]
+* CryptBay [@CryptBay#8978] 
 
 * Deman [@Deman#3755]
 
-* Elec Elec [@Elec Elec#5381]
+* Elec Elec [@Elec Elec#5381] 
 
 * francescodangelo [@francescodangelo#9089]
 
-* gabsale [@gabsale#0137]
+* gabsale [@gabsale#0137] 
 
 * The revolution [@The revolution#7705]
 
@@ -643,93 +643,91 @@ Additional Contributors
 
 Community contributors, developers, designers, copywriters, translators, and professional investors in Electra who play an active role within the community with regards to development and decision making. 
 
-* Billy [@Billy#7650]
+* Billy [@Billy#7650] 
 
-* Brik [@Brik#7504]
+* Brik [@Brik#7504] 
 
-* CryptoProphet [@CryptoProphet#8960]
+* CryptoProphet [@CryptoProphet#8960] 
 
-* Daniyal [@Daniyal#4288]
+* Daniyal [@Daniyal#4288] 
 
-* Dmitry [@Dima#4629]
+* Dmitry [@Dima#4629] 
 
-* ECA Shark (Oznoska)[@ECA Shark (Oznoska)#4946]
+* ECA Shark (Oznoska)[@ECA Shark (Oznoska)#4946] 
 
-* ECA_BEAR [@ECA_BEAR#8668]
+* ECA_BEAR [@ECA_BEAR#8668] 
 
-* Enratic [@Enratic#2818]]
+* Enratic [@Enratic#2818]] 
 
-* FARS [@FARS#8975]
+* FARS [@FARS#8975] 
 
-* Fanos [@Fanos#5697]
+* Fanos [@Fanos#5697] 
 
-* Game Stack [@Game Stack#9024]
+* Game Stack [@Game Stack#9024] 
 
-* Greenbigfrog [@greenbigfrog#4461]
+* Greenbigfrog [@greenbigfrog#4461] 
 
 * HeathHimself [@HeathHimself#5438]
 
-*  highwaystar_crypto [@highwaystar_crypto#9211]
+* highwaystar_crypto [@highwaystar_crypto#9211] 
 
 * hyjazl [@hyjazl#5030]
 
-* iizzzzz [@iizzzzz#6287]
+* iizzzzz [@iizzzzz#6287] 
 
-* Isoetes [@Isoetes#7671]
+* Isoetes [@Isoetes#7671] 
 
-* Ivan [@Ivan#9565]
+* Ivan [@Ivan#9565] 
 
-* john.connor.T800 [@john.connor.T800#9802]
+* john.connor.T800 [@john.connor.T800#9802] 
 
-* joshua [@joshua#5437]
+* joshua [@joshua#5437] 
 
-* KYO [@KYO#5513]
+* Niilay [@Niilay#0002] 
 
-* Niilay [@Niilay#0002]
+* oxymorum [@oxymorum#6684] 
 
-* oxymorum [@oxymorum#6684]
+* pskow [@pskow#8106] 
 
-* pskow [@pskow#8106]
+* Randall [@Randall#9867] 
 
-* Randall [@Randall#9867]
+* reqviem [@reqviem#3378] 
 
-* reqviem [@reqviem#3378]
-
-* Ruru [@Ruru#9895]
+* Ruru [@Ruru#9895] 
 
 * Serapium [@Serapium#2642]
 
-* sheppard94 [@sheppard94#9729]
+* sheppard94 [@sheppard94#9729] 
 
-* sinya_mori [@sinya_mori#3789]
+* sinya_mori [@sinya_mori#3789] 
 
-* Slick [@Slick#3955]
+* Slick [@Slick#3955] 
 
-* solacespecs [@solacespecs#6361]
+* solacespecs [@solacespecs#6361] 
 
-* sortsy [@sortsy#2585]
+* sortsy [@sortsy#2585] 
 
-* soupli [@soupli#8718]
+* soupli [@soupli#8718] 
 
-* steefaan [@steefaan#5815]
+* steefaan [@steefaan#5815] 
 
 * Stuyk [@Stuyk#6645]
 
-* Teddy_can [@Teddy_can#2112]
+* Teddy_can [@Teddy_can#2112] 
 
-* TheWatcher [@TheWatcher#4267]
+* TheWatcher [@TheWatcher#4267] 
 
 * thomasotter [@thomasotter#0672] 
 
-* tureki [@tureki#6243]
+* tureki [@tureki#6243] 
 
-* Wolf [@Wolf#5660]
+* xafilox [@xafilox#5093] 
 
-* xafilox [@xafilox#5093]
+* xInfinitYz [@xInfinitYz#3970] 
 
-* xInfinitYz [@xInfinitYz#3970]
+* Zukunft [@Zukunft#3000] 
 
-* Zukunft [@Zukunft#3000]
+* KYO [@KYO#5513]
 
 Overseers
 
@@ -749,6 +747,8 @@ Lead moderators in community management.
 
 * Ultor [@Ultor#4898]
 
+* Wolf [@Wolf#5660]
+
 Support Moderators 
 
 Moderators of Discord and Telegram servers, Reddit, Twitter, Instagram and other social media channels. 
@@ -767,13 +767,13 @@ Moderators of Discord and Telegram servers, Reddit, Twitter, Instagram and other
 
 * ECA_Frog [@ECA_Frog#8988]
 
+* ECA Alpaca [@Tojemi#5541]
+
 * Electra Wire [@Electra Wire#1972]
 
 * JoshhMetal [@JoshhMetal#4568]
 
 * Macroscopic [@Macroscopic#4036]
-
-* mikeymikehill[@mikeymikehill#4016]
 
 * Miley Cyrus [@Miley Cyrus#8370]
 
@@ -787,8 +787,6 @@ Moderators of Discord and Telegram servers, Reddit, Twitter, Instagram and other
 
 * Randall Flagg [@Randall Flagg#9820]
 
-* RobertBakker[@RobertBakker#4126]
-
 * SirStagg [@SirStagg#3930]
 
 * Sprite- [@Sprite-#8903]
@@ -801,139 +799,161 @@ Electrans
 
 Members of the community with voting rights.  ECA investors who participate in community decisions, formulate proposals and suggestions, and autonomously manage marketing channels in a decentralized way. 
 
-* Adam360 [@Adam360#2926
+* Adam360 [@Adam360#2926] 
 
-* adolist [@adolist#2441]
+* adolist [@adolist#2441] 
 
-* ajdeca [@ajdeca#7711]
+* ajdeca [@ajdeca#7711] 
+
+* alfm27 [@alfm27#1080] 
 
 * Amarin [@Amarin#8429] 
 
-* antwonr15 [@antwonr15#6311]
+* antwonr15 [@antwonr15#6311] 
 
 * B.Selvi [@B.Selvi#8923] 
 
-* bigman19916 [@bigman19916#6798]
+* bigman19916 [@bigman19916#6798] 
 
-* BillySquire [@BillySquire#2555]
+* BillySquire [@BillySquire#2555] 
 
 * BitJack77 [@BitJack77#13] 
 
-* buddyman1125 [@buddyman1125#3335]
+* buddyman1125 [@buddyman1125#3335] 
 
-* chegevm [@chegevm#6253]
+* Casino Knight [@Casino Knight#1367] 
 
-* Coolcovey[@Coolcovey#8682]
+* chegevm [@chegevm#6253] 
 
-* CryptoLuke [@CryptoLuke#7069]
+* Coolcovey [@Coolcovey#8682] 
 
-* Devoid [@Devoid#9341]
+* cristianlazarus [@cristianlazarus#7696] 
 
-* dukes18 [@dukes18#1723]
+* CryptoLuke [@CryptoLuke#7069] 
 
-* DVSN[@DVSN#5471]
+* Devoid [@Devoid#9341] 
 
-* ECA Axolotl [@ECA Axolotl#4976]
+* DigitalByte [@\DigitalByte\ #2118] 
 
-* ECA Giraffe [@ECAGiraffe#5553]
+* DVSN [@DVSN#5471] 
 
-* Eisenberg [@Eisenberg#1461]
+* ECA Ape [@ECA Ape#0242] 
 
-* Eskydar [@Eskydar#3302]
+* ECA Psychic [@ECA Psychic#9137] 
 
-* Flow [@Flow#0306]
+* ECA Axolotl [@ECA Axolotl#4976] 
 
-* grant2cool [@grant2cool#3338]
+* ECA Giraffe [@ECAGiraffe#5553] 
 
-* Gulrokacus [@Gulrokacus#9849]
+* ECA Walrus [@ECA Walrus#3342] 
 
-* hyppaface [@hyppaface#5750]
+* ECA Whale [@ECA Whale#7571] 
 
-* llama[@llama#4185]
+* ECAstronaut [@ECAstronaut#6712] 
 
-* jaxteller [@jaxteller#6465]
+* Eisenberg [@Eisenberg#1461] 
 
-* JayJay [@JayJay#7073]
+* Electric Type [@Electric Type#4326] 
 
-* jjjj666 [@jjjj666#2463]
+* Eskydar [@Eskydar#3302] 
 
-* joshuahay [@joshuahay#6843]
+* Flow [@Flow#0306] 
+
+* grant2cool [@grant2cool#3338] 
+
+* Gulrokacus [@Gulrokacus#9849] 
+
+* hyppaface [@hyppaface#5750] 
+
+* jaxteller [@jaxteller#6465] 
+
+* JayJay [@JayJay#7073] 
+
+* jjjj666 [@jjjj666#2463] 
+
+* joshuahay [@joshuahay#6843] 
 
 * Junky [@Junky#4356] 
 
-* kL4RiWolf [@kL4RiWolf#2159]
+* kL4RiWolf [@kL4RiWolf#2159] 
 
-* LAZA [@LAZA#5333]
+* LAZA [@LAZA#5333] 
 
-* linuziii [@linuziii#7858]
+* linuziii [@linuziii#7858] 
 
-* lucacrea [@lucacrea#8413]
+* lucacrea [@lucacrea#8413] 
 
-* MadAreYou [@MadAreYou#6263]
+* MadAreYou [@MadAreYou#6263] 
 
-* MaffeProg [@MaffeProg#1162]
+* MaffeProg [@MaffeProg#1162] 
 
-* manu2424 [@manu2424#4359]
+* manu2424 [@manu2424#4359] 
 
 * marky mark [@marky mark#9217]
 
-* meansofcrypto[@meansofcrypto#3224]
+* meansofcrypto [@meansofcrypto#3224] 
 
-* mec1988 [@mec1988#6670]
+* mec1988 [@mec1988#6670] 
 
-* Menardi [@Menardi#2514]
+* Menardi [@Menardi#2514] 
 
-* moonswamp-coin8coin [@moonswamp-coin8coin#8794]
+* moonswamp-coin8coin [@moonswamp-coin8coin#8794] 
 
-* Mr. Underhill [@Mr. Underhill#6018]
+* Mr. Underhill [@Mr. Underhill#6018] 
 
-* nashsclay [@nashsclay#6809]
+* nashsclay [@nashsclay#6809] 
 
-* Nika_Smouzh [@Nika_Smouzh#2469]
+* Nika_Smouzh [@Nika_Smouzh#2469] 
 
-* nwaribo [@nwaribo#2193]
+* nwaribo [@nwaribo#2193] 
 
-* Obese to Physique [@Obese to Physique#8345]
+* Obese to Physique [@Obese to Physique#8345] 
 
-* Paul [@Paul#1682]
+* papajoelius [@papajoelius#3962] 
 
-* PIP [@PIP#6562]
+* Paul [@Paul#1682] 
 
-* Powerade [@Powerade#2852]
+* PIP [@PIP#6562] 
 
-* Punished "Zorg" Snake [@Punished "Zorg" Snake#8182]
+* Powerade [@Powerade#2852] 
 
-* rasputin [@rasputin#9192]
+* Rayman [@Rayman#6865] 
 
-* Rayman [@Rayman#6865]
+* Ronan [@Ronan#6229] 
 
-* Ronan [@Ronan#6229]
+* Ruru [@Ruru#9895] 
 
-* Ruru [@Ruru#9895]
+* Sergey [@Sergey#2762] 
 
-* shosa [@shosa#3836]
+* shosa [@shosa#3836] 
 
-* Skalizar [@Skalizar#5548]
+* Skalizar [@Skalizar#5548] 
 
-* SomeGuy [@SomeGuy#3909]
+* SomeGuy [@SomeGuy#3909] 
 
-* Stephen [@sms19#6542]
+* Stephen [@sms19#6542] 
 
-* Tim B [@Tim B#2383]
+* Tim B [@Tim B#2383] 
 
-* TNmissionary [@TNmissionary#1316]
+* TNmissionary [@TNmissionary#1316] 
 
-* UsmanHussain [@UsmanHussain#1136]
+* UsmanHussain [@UsmanHussain#1136] 
 
-* Wayno717 [@Wayno717#5756]
+* Wayno717 [@Wayno717#5756] 
 
-* yuliasih [@yuliasih#1205]
+* yuliasih [@yuliasih#1205] 
 
-* Zarag [@Zarag#2781]
+* ZachDaMan [@ZachDaMan#7268] 
 
-# Electra01’s Vision
+* Zarag (Quokka) [@Zarag (Quokka)#2781] 
 
-*The main goals I had when creating Electra was for it to be able to remain active indefinitely and easy to use. A key component to achieve these goals is an active community. In less than a year, the community has progressed immensely and is a completely self-governing entity that can act without my interference. The whitepaper itself is written by the community which may be a first in the blockchain sector. The current parameters of Electra take into account security, privacy, speed and efficiency. It is a solid template to build upon. The new community roadmap is ambitious and aims to make Electra a premier cryptocurrency. For these goals, as well as my own, the development team has been expanded and will also eventually become self-governing. Just as I have done so far, I will aid Electra’s expansion and provide funding when necessary for future endeavours.*
+* ZorgThePencil [@ZorgThePencil#8182]
+
+# Founder’s Vision
+
+*The main goals I had when creating Electra was for it to be able to remain active indefinitely and easy to use. A key component to achieve these goals is an active community. In less than a year, the community has progressed immensely and is a completely self-governing entity that can act without my interference. The whitepaper itself is written by the community which may be a first in the blockchain sector. The current parameters of Electra take into account security, privacy, speed and efficiency. It is a solid template to build upon.
+
+The new community roadmap is ambitious and aims to make Electra a premier cryptocurrency. For these goals, as well as my own, the development team has been expanded and will also eventually become self-governing. Just as I have done so far, I will aid Electra’s expansion and provide funding when necessary for future endeavours.* Electra01
 
 # Disclaimer
 
