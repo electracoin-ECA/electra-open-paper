@@ -4,31 +4,13 @@
 
 ### Abstract
 
-Electra is an open-source community cryptocurrency project featuring decentralized and distributed governance. Electra's foundation is a blockchain based on the NIST5 algorithm, guaranteeing fast and secure transactions with nearly non-existent transaction costs.
+Electra is an open-source, community-driven cryptocurrency project featuring the hallmark decentralized and distributed governance of blockchain technologies. Electra's foundation is based on NIST5 encryption algorithms and Proof-of-Stake (POS) transaction authentication, guaranteeing fast and secure transactions with nearly non-existent transaction fees.
 
-Electra's goal is to become the electric current of the cryptocurrency community. Our vision is to advance the evolution of our economic system as originally proposed by Satoshi Nakamoto.
+Electra is unique in that its development is lead by a core team, but contracted out to talented and passionate Electra Community members. At present, Electra is a fully functioning cryptocurrency. There is no ICO, no smoke, no mirrors, simply a highly efficient, dynamic coin supported by some highly capable people.
 
-Electra is a unique cryptocurrency in that it is both a development project and a contract. Despite being a fully operational cryptocurrency at present, Electra is an ongoing development project subject to review, innovation, and updating. Electra is also a contract in that it offers the investor full participation in the development process, including but not limited to the following. 
+The Electra Blockchain is a product of the combined skills and abilities of our ever-growing community of coders, developers, and business professionals. These individuals have built a solid foundation for the community to build upon. All contributions and updates are openly available to read through by the community to ensure maximum stability and security. Too many cooks might spoil a stew, but a thousand critics can't be wrong.
 
-* Access to Electra community
-
-* The right to obtain project information
-
-* Involvement in  development decisions
-
-* Comprehensive voting rights
-
-* Access to technical support
-
-The Electra Blockchain and the ECA coin is a product of the combined skills and abilities of an ever-growing community of coders, developers, business professionals and other contributors. ECA is built on a fully functional and feature rich blockchain with a stable and solid foundation. This foundation provides the reliable platform needed for our talented community of developers to innovate, invent and build upon. Blockchain technology evolves on a daily basis. As this technology improves, ECA's foundation will expand and grow in tandem with the latest innovations.
-
-Digital currency was created to bring change to the financial world through the decentralisation and disintermediation of the global financial ecosystem. Progress towards this goal has thus far been inhibited by insufficient technical tools that alone are simply not enough to affect mass adoption of blockchain technology. Recent technological developments are only now beginning to  unlock new possibilities. These developments have resulted in paradigm shifts within the cryptocurrency ecosystem regarding the scalability, accessibility, speed, and cost of blockchain applications.
-
-The opportunity for dramatic change within a developing ecosystem is unfortunately time limited. Newly developed systems evolve quickly, rapidly reaching a point where progressive and lasting change is inhibited by the structures built during each stage of the evolution. As blockchain technology moves towards structural boundaries within the ecosystem there is a period of time in which greater freedom of action for the evolutionary forces at work is possible. For cryptocurrencies and blockchain technology as a whole, that time is now. Electra is positioned to become one of the main driving forces of change while these windows of opportunity remain open. 
-
-Participants within the traditional economic structure are attempting to employ old logic and adapt to the ongoing restructuring of our economic system, subverting the original intent behind the cryptocurrency movement. The need exists for the cryptocurrency community at large to recapture the original spirit behind decentralization and disintermediation. The Electra Project is an effective response to this need. ECA owners are no longer just investors in a cryptocurrency. Instead, by being directly involved in the decision making process, investors take part in the entire underlying structure: code innovation, design, marketing, community building, and strategic business development.
-
-Through this process, participants within the economic system are no longer relegated to being mere consumers. Electra returns the power to the people, and assigns members of the community an active role in the evolution of our economic and monetary systems.
+The Electra Project aims to continue the cryptographic legacy laid out by Satoshi Nakamoto in 2009, utilizing the technology and wisdom we have accumulated in the past nine years. We are not aiming to replace the world's financial system, but rather we are seeking to make it work better. Today's technology runs circles around that which backs the fiat currency system; this is not a secret, as many major financial institutions are beginning to incorporate private blockchain technology into their systems. While this is beneficial to the bankers and international business people, most people will see no benefit from it in their day-to-day life. The Electra Project hopes to bring the benefits of blockchain technology to the everyday person by providing to them a consistently seamless transaction experience from the moment they first open the app. 
 
 # Table of Contents
 
