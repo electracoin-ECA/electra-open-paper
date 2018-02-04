@@ -4,11 +4,13 @@
 
 ### Abstract
 
-Electra is an open-source community cryptocurrency project featuring decentralized and distributed governance. Electra's foundation is a blockchain based on the NIST5 algorithm, guaranteeing fast and secure transactions with nearly non-existent transaction costs.
+Electra is an open-source, community-driven cryptocurrency project featuring the hallmark decentralized and distributed governance of blockchain technologies. Electra's foundation is based on NIST5 encryption algorithms and Proof-of-Stake (POS) transaction authentication, guaranteeing fast and secure transactions with nearly non-existent transaction fees.
 
-Electra's goal is to become the electric current of the cryptocurrency community. Our vision is to advance the evolution of our economic system as originally proposed by Satoshi Nakamoto.
+Electra is unique in that its development is lead by a core team, but contracted out to talented and passionate Electra Community members. At present, Electra is a fully functioning cryptocurrency. There is no ICO, no smoke, no mirrors, simply a highly efficient, dynamic coin supported by some highly capable people.
 
-Electra is a unique cryptocurrency in that it is both a development project and a contract. Despite being a fully operational cryptocurrency at present, Electra is an ongoing development project subject to review, innovation, and updating. Electra is also a contract in that it offers the investor full participation in the development process, including but not limited to the following. 
+The Electra Blockchain is a product of the combined skills and abilities of our ever-growing community of coders, developers, and business professionals. These individuals have built a solid foundation for the community to build upon. All contributions and updates are openly available to read through by the community to ensure maximum stability and security. Too many cooks might spoil a stew, but a thousand critics can't be wrong.
+
+The Electra Project aims to continue the cryptographic legacy laid out by Satoshi Nakamoto in 2009, utilizing the technology and wisdom we have accumulated in the past nine years. We are not aiming to replace the world's financial system, but rather we are seeking to make it work better. Today's technology runs circles around that which backs the fiat currency system; this is not a secret, as many major financial institutions are beginning to incorporate private blockchain technology into their systems. While this is beneficial to the bankers and international business people, most people will see no benefit from it in their day-to-day life. The Electra Project hopes to bring the benefits of blockchain technology to the everyday person by providing to them a consistently seamless transaction experience from the moment they first open the app. 
 
 * Access to Electra community
 
