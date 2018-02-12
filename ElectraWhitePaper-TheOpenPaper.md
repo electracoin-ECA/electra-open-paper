@@ -4,11 +4,13 @@
 
 ### Abstract
 
-Electra is an open-source community cryptocurrency project featuring decentralized and distributed governance. Electra's foundation is a blockchain based on the NIST5 algorithm, guaranteeing fast and secure transactions with nearly non-existent transaction costs.
+Electra is an open-source community cryptocurrency project featuring decentralized and distributed governance. Electra’s foundation is a blockchain based on the NIST5 algorithm, guaranteeing fast and secure transactions with nearly non-existent transaction costs.
 
-Electra's goal is to become the electric current of the cryptocurrency community. Our vision is to advance the evolution of our economic system as originally proposed by Satoshi Nakamoto.
+Electra’s goal is to become the electric current of the cryptocurrency community. Our vision is to advance the evolution of our economic system as originally proposed by Satoshi Nakamoto.
 
-Electra is a unique cryptocurrency in that it is both a development project and a contract. Despite being a fully operational cryptocurrency at present, Electra is an ongoing development project subject to review, innovation, and updating. Electra is also a contract in that it offers the investor full participation in the development process, including but not limited to the following. 
+Electra is a unique cryptocurrency in that it is both a development project and a contract. Despite being a fully operational cryptocurrency at present, Electra is an ongoing development project subject to review, innovation, and updating.
+
+Electra is also a contract that offers the investor full participation in the development process, including but not limited to the following: 
 
 * Access to Electra community
 
@@ -20,13 +22,17 @@ Electra is a unique cryptocurrency in that it is both a development project and 
 
 * Access to technical support
 
-The Electra Blockchain and the ECA coin is a product of the combined skills and abilities of an ever-growing community of coders, developers, business professionals and other contributors. ECA is built on a fully functional and feature rich blockchain with a stable and solid foundation. This foundation provides the reliable platform needed for our talented community of developers to innovate, invent and build upon. Blockchain technology evolves on a daily basis. As this technology improves, ECA's foundation will expand and grow in tandem with the latest innovations.
+The Electra Blockchain and the ECA coin are a product of the combined skills and abilities of an ever-growing community of coders, developers, business professionals and other contributors. ECA is built on a fully functional and feature rich blockchain with a stable and solid foundation. This foundation provides the reliable platform needed for our talented community of developers to innovate, invent and build upon. Blockchain technology evolves on a daily basis. As this technology improves, ECA’s foundation will expand and grow in tandem with the latest innovations.
 
-Digital currency was created to bring change to the financial world through the decentralisation and disintermediation of the global financial ecosystem. Progress towards this goal has thus far been inhibited by insufficient technical tools that alone are simply not enough to affect mass adoption of blockchain technology. Recent technological developments are only now beginning to  unlock new possibilities. These developments have resulted in paradigm shifts within the cryptocurrency ecosystem regarding the scalability, accessibility, speed, and cost of blockchain applications.
+Digital currency was created to bring change to the financial world through the decentralization and disintermediation of the global financial ecosystem.
+Progress towards this goal has thus far been inhibited by insufficient technical tools that alone are simply not enough to affect mass adoption of blockchain technology. Recent technological developments are only now beginning to unlock new possibilities, resulting in paradigm shifts within the cryptocurrency ecosystem regarding the scalability, accessibility, speed, and cost of blockchain applications.
 
-The opportunity for dramatic change within a developing ecosystem is unfortunately time limited. Newly developed systems evolve quickly, rapidly reaching a point where progressive and lasting change is inhibited by the structures built during each stage of the evolution. As blockchain technology moves towards structural boundaries within the ecosystem there is a period of time in which greater freedom of action for the evolutionary forces at work is possible. For cryptocurrencies and blockchain technology as a whole, that time is now. Electra is positioned to become one of the main driving forces of change while these windows of opportunity remain open. 
+The opportunity for dramatic change within a developing ecosystem is unfortunately time limited. Newly developed systems evolve quickly, rapidly reaching a point where progressive and lasting change is inhibited by the structures built during each stage of evolution. As blockchain technology moves towards structural boundaries within the ecosystem there is a period of time in which greater freedom of action for the evolutionary forces at work is possible. For cryptocurrencies and blockchain technology as a whole, that time is now. 
 
-Participants within the traditional economic structure are attempting to employ old logic and adapt to the ongoing restructuring of our economic system, subverting the original intent behind the cryptocurrency movement. The need exists for the cryptocurrency community at large to recapture the original spirit behind decentralization and disintermediation. The Electra Project is an effective response to this need. ECA owners are no longer just investors in a cryptocurrency. Instead, by being directly involved in the decision making process, investors take part in the entire underlying structure: code innovation, design, marketing, community building, and strategic business development.
+Electra is positioned to become one of the main driving forces of change while these windows of opportunity remain open.
+
+Participants within the traditional economic structure are attempting to employ old logic to adapt to the ongoing restructuring of our economic system, subverting the original intent behind the cryptocurrency movement. The cryptocurrency community must recapture the original spirit behind decentralization
+and the Electra Project is prepared to lead the way. ECA owners are no longer just investors in a cryptocurrency. Instead, by being directly involved in the decision making process investors take part in the entire underlying structure: code innovation, design, marketing, community building, and strategic business development. 
 
 Through this process, participants within the economic system are no longer relegated to being mere consumers. Electra returns the power to the people, and assigns members of the community an active role in the evolution of our economic and monetary systems.
 
@@ -70,27 +76,31 @@ Through this process, participants within the economic system are no longer rele
 
 # Electrifying the Cryptocurrency Community
 
-Electra is more than a common digital currency. It is a currency backed by an entire community of dedicated individuals. Electra’s goal is to create the strongest possible community of individuals who all share the same philosophy of change with regards to global monetary systems. Through transparency and empowerment, we are shining a new light on a darkening system. This is not a zero sum game; this is Electra.
+Electra is more than a common digital currency. It is a currency backed by an entire community of dedicated individuals. Electra’s goal is to create the strongest possible community of individuals who all share the same philosophy of change with regards to global monetary systems. Through transparency and empowerment, we are shining a new light on a darkening system. This is not a
+zero sum game; this is Electra.
 
-Our vision for Electra is that it becomes the largest and most active cryptocurrency community within the market space. An active global community provides investors an opportunity to assume roles as active players and contributors. Electra is not only a decentralized organization, but a unique and powerful revolution based on shared ownership and collaboration among the skilled experts throughout our community.
+Our vision for Electra is that it becomes the largest and most active cryptocurrency community within the market space. An active global community provides investors an opportunity to assume roles as active players and contributors.
+Electra is not only a decentralized organization, but a unique and powerful revolution based on shared ownership and collaboration among the skilled experts throughout our community.
 
 ## Investor Benefit
 
-ECA investors hold a stake in the Electra organization and are encouraged to become directly involved in the development process. All investors are owners of both the cryptocurrency and the entire structure that exists behind the project.
+ECA investors hold a stake in the Electra organization and are encouraged to become directly involved in the development process. All investors are owners of both the cryptocurrency and the entire infrastructure that exists behind the project.
 
 ## Innovative and Open Development Process
 
-The underlying architecture of the Electra Project is continuously subjected to multiple stages of validation. Through this process only the most valid and valuable changes are adopted and integrated. Any and all decisions are subject to review, update, and upgrade as needed. Even an optimal system has limits. Guarantees of reversibility and the highest level of quality are needed. Electra’s strength is its ability to adapt and consistently meet the needs of a changing global environment.
+The underlying architecture of the Electra Project is continuously subjected to multiple stages of validation. Through the validation process only the most valuable changes are adopted and integrated. Any and all decisions are subjected to review by the community prior to implementation. Even an optimal system has limits. Guarantees of reversibility and the highest level of quality are needed. One of Electra’s strengths is the ability to adapt and consistently meet the needs of a changing global environment.
 
-Building and deconstructing simultaneously is necessary to create the best possible product given the current limitations, and at the same time provide for the ability to further refine the product. In doing so we must accept the possibility that the existing product has room to improve or that the underlying factors of previous developments have changed. Our methodology allows for continuous evolution of the product within a changing environment. The resulting development will produce the best possible product at any given time.
+Building and deconstructing simultaneously is necessary to create the best possible product given the current limitations, and at the same time provide for the ability to further refine the product. In doing so we must accept the possibility that the existing technology has room to improve or that the underlying factors of previous developments have changed. Our methodology allows for continuous evolution of the technology within a changing environment. The resulting development will produce the best possible product at any given time.
 
 ## Electra Sets New Standards for Cryptocurrencies
 
 The best product is the one capable of becoming completely different from its origins. Today, the leading cryptocurrencies on the market can only guarantee their relevance to investors for an ephemeral period. What is now at the forefront of the market will soon be outdated and outclassed by innovative competitors.
 
-As a community we synthesize and condense the vision of many individuals, compare and contrast diverse viewpoints, and examine possible outcomes. The results of this process are subjected to rigorous review, which allows us to systematically detect probable errors by analyzing a multitude of viewpoints. This approach ensures that only the most valid ideas survive to reach implementation. To reach our goals it is necessary to widen the scope of discussion as much as possible and to extend an open dialogue indefinitely. 
+As a community we synthesize and condense the vision of many individuals, compare and contrast diverse viewpoints, and examine possible outcomes. The results of this process are subjected to review and analysis by a multitude of viewpoints, allowing for the systematic detection of probable errors.
 
-The end result is the Electra Project.
+This approach ensures that only the most valid ideas survive to reach implementation. To reach our goals it is necessary to widen the scope of discussion as much as possible and to extend an open dialogue indefinitely.
+
+The end result of our efforts is the Electra Project.
 
 The Electra Project’s primary points of focus are the following:
 
@@ -106,7 +116,8 @@ The Electra Project’s primary points of focus are the following:
 
 ## The Algorithm
 
-ECA is built using an algorithm that guarantees security; NIST5. NIST5  is an algorithm developed using the best features of the five SHA-3 finalist algorithms as selected by the National Institute of Science and Technology of America. In practice, the NIST5 algorithm as implemented in ECA selects the most beneficial attributes of each component algorithm to maximize performance, security, and efficiency. These component algorithms include:
+ECA is built using an algorithm that guarantees security; NIST5. NIST5 is an algorithm developed using the best features of the five SHA-3 finalist algorithms as selected by the National Institute of Standards and Technology of America.
+In practice, the NIST5 algorithm as implemented in ECA selects the most beneficial attributes of each component algorithm to maximize performance, security, and efficiency. These component algorithms include:
 
 * BLAKE
 
@@ -128,7 +139,7 @@ ECA is built using an algorithm that guarantees security; NIST5. NIST5  is an al
 
 ## The Electra Blockchain
 
-The underlying blockchain of the ECA coin utilizes a modified version of the NIST5 algorithm with the following properties:* *
+The underlying blockchain of the ECA coin utilizes a modified version of the NIST5 algorithm with the following properties: 
 
 * Block Size: 1MB
 
@@ -145,7 +156,7 @@ The underlying blockchain of the ECA coin utilizes a modified version of the NIS
 
 ## Purpose and Use of Pre-mined ECA
 
-1,000,000,019 (approximately 3.34%) ECA were pre-mined using Proof of Work (PoW) mining. Pre-mined funds are maintained by a trusted Community Funds Manager. Distribution and use of funds is determined by community consensus. Pre-mined funds will be used for various purposes including but not limited to the following:
+1,000,000,019 (Approximately 3.34%) ECA were pre-mined using Proof of Work (PoW) mining. Pre-mined funds are maintained by a trusted Community Funds Manager. Distribution and use of funds is determined by consensus. Pre-mined funds will be used for various purposes including but not limited to the following:
 
 * Maintaining the security and usability of the platform
 
@@ -159,7 +170,7 @@ ECA transactions are received in the recipient’s wallet almost instantly and t
 
 ## Transaction Fees Approaching Zero
 
-With transaction fees on the Electra network of 0.00001 ECA, it takes 100,000 transactions to accumulate one ECA worth of transaction fees (approximately $0.004 USD at time of this publication). This results in a cost per transaction of approximately $0.00000004.
+With transaction fees on the Electra network of 0.00001 ECA, it takes 100,000 transactions to accumulate one ECA worth of transaction fees (approximately $0.004 USD at time of this publication). The resulting cost per transaction is approximately $0.00000004.
 
 ## Staking Rewards
 
@@ -177,7 +188,7 @@ Future developments within the Electra ecosystem will allow for the use of priva
 
 * Kovri
 
-Users will be able to select the privacy functions best suited to their individual needs. The Electra community is continually working to identify the most scalable and efficient gateway configurations to ensure privacy of transactions. 
+Users will be able to select the privacy functions best suited to their individual needs. The Electra community is continually working to identify the most scalable and efficient gateway configurations to ensure privacy of transactions.
 
 ## Environmentally Friendly
 
@@ -187,17 +198,18 @@ Furthermore, Electra does not have an extended Proof of Work (PoW) phase. Electr
 
 # Future Technology
 
-When you invest in ECA you become a stakeholder in a fully open source project aimed at developing the most cutting edge technology for the evolution of cryptocurrency. Investors who choose Electra will be a part of this journey. Current technology is a good starting point. However, creating the cryptocurrency of the future requires going beyond the limits of existing technology. 
+When you invest in ECA you become a stakeholder in a fully open source project aimed at developing the most cutting edge technology for the evolution of cryptocurrency. Investors who choose Electra will be a part of this journey. Current technology is a good starting point however, creating the cryptocurrency of the future requires going beyond the limits of existing technology. 
 
-The strength of ECA resides in the contract that guarantees investors full participation in the direction of the project, including all future developments and technologies. ECA’s potential growth is guaranteed because tomorrow's ECA will not be just another coin, but rather an adaptation to future societal and economic needs. Investors can be confident that when they purchase ECA, they are investing in the present and future growth of a unique cryptocurrency ecosystem.
+The strength of Electra resides in the contract that guarantees investors full participation in the direction of the project, including all future developments and technologies. ECA’s potential growth is guaranteed because tomorrow’s ECA will not be just another coin, but rather an adaptation to future societal and economic needs. Investors can be confident that when they purchase ECA, they are investing in the present and future growth of a unique cryptocurrency ecosystem.
 
-If an algorithm emerges that is more efficient and superior to NIST5, Electra’s development team is prepared to adapt ECA's underlying structure to maintain a competitive advantage in the market. As Electra grows the block time can be reduced and the block size can be increased. The adaptability of ECA allows for the blockchain to be maintained while the algorithm is rewritten from scratch. In effect Electra is a blank paper for writing revolutionary code. Writing the code of the future on an already active codebase results in a deployed structure that neither obstructs, limits, nor hinders future development. ECA’s architecture allows a subsequent structure to intersect, connect, flank or replace the existing structure. Electra provides a better solution than existing currencies can and guarantees the community full control.
+If an algorithm emerges that is more efficient and superior to NIST5, Electra’s development team is prepared to adapt ECA’s underlying structure to maintain a competitive advantage in the market. As Electra grows the block time can be reduced and the block size can be increased. The adaptability of ECA allows for the blockchain to be maintained while the algorithm is rewritten from scratch.
+In effect Electra is a blank paper for writing revolutionary code. Writing the code of the future on an already active codebase results in a deployed structure that neither obstructs, limits, nor hinders future development. ECA’s architecture allows a subsequent structure to intersect, connect, flank or replace the existing structure. Electra provides a better solution than existing currencies can and guarantees the community full control.
 
 # Electra Ecosystem
 
-In order for merchants to complete transactions, they need to be able to accept payments from consumers. In today’s world merchants do not have the proper technical tools at their disposal for accepting digital currency as a form of payment. Merchants that do accept digital currencies  are paying extremely high fees to do so.
+In order for merchants to complete transactions, they need to be able to accept payments from consumers. In today’s world merchants do not have the proper technical tools at their disposal for accepting digital currency as a form of payment. Merchants that do accept digital currencies are paying extremely high fees to do so.
 
-Despite the proliferation of technology across the globe, many developing regions of the world continue to operate within a system where the ‘Cash is King’ philosophy remains dominant in conducting commerce. Ease of adoption provided by the Electra ecosystem combined with easy access to mobile Internet in developing countries provides a secure, fast, and low fee payment gateway for both consumers and merchants alike - regardless of where they live.
+Despite the proliferation of technology across the globe, many developing regions of the world continue to operate within a system where the ‘Cash is King’ philosophy remains dominant in conducting commerce. Ease of adoption provided by the Electra ecosystem combined with easy access to mobile Internet in developing countries provides a secure, fast, and low fee payment gateway for both consumers and merchants alike, regardless of where they live.
 
 ## The Electra Family of Products
 
@@ -245,13 +257,13 @@ At Electra we understand that the idea of managing a digital wallet and using di
 
 ## ElectraPay
 
-ElectraPay is a community driven payment solution for merchants. The codebase consists of a centralized payment facility connected to plugins available for most e-commerce platforms (Magento, WooCommerce, Shopify, etc.).
+ElectraPay is a community driven payment solution for merchants. The codebase consists of a centralized payment facility connected to plugins available for most e-commerce platforms including Magento, WooCommerce and Shopify.
 
-The ElectraPay system allows merchants to receive payments for their goods and services by easily installing the plugin to their e-commerce websites. Customers will then be able to select ECA as a payment method. The plugin will convert the fiat value to ECA using the latest official ECA price as drawn from multiple exchanges. The customer is then shown a payment address along with a QR code. 
+The ElectraPay system allows merchants to receive payments for their goods and services by easily installing the plugin to their e-commerce websites. Customers will then be able to select ECA as a payment method. The plugin will convert the fiat value to ECA using the latest official ECA price as drawn from multiple exchanges. The customer is then shown a payment address along with a QR code.  
 
-When the ElectraPay system detects initiation of a payment, it sends a validation call to the merchant’s website and routes the ECA through the ElectraPay system to obfuscate the final payment address. Merchants using this plugin can be confident that their transactions and wallets are secure and concealed from the customer. 
+When the ElectraPay system detects initiation of a payment, it sends a validation call to the merchant’s website and routes the ECA through the ElectraPay system to obfuscate the final payment address. Merchants using this plugin can be confident that their transactions and wallets are secure and concealed from the customer.  
 
-Merchants will easily be able to install the ElectraPay plugin to their online stores and the plugin is fully customizable to suit the merchant’s needs. Merchants wanting to use custom code in their own payment page will be able to do so with the open ElectraPay API.
+Merchants will easily be able to install the ElectraPay plugin to their online stores and the plugin is fully customizable to suit the merchant’s needs. Merchants wanting to use custom code in their own payment page will be able to do so with the open ElectraPay API. 
 
 Below is a chart showing the various building blocks of the ElectraPay system.
 
@@ -259,7 +271,7 @@ Below is a chart showing the various building blocks of the ElectraPay system.
 
 ## SocialPay
 
-SocialPay by Electra is an automated application that enables individuals and organizations to leverage the power of Social Media. This is accomplished by initiating ECA transactions on a large scale, allowing content providers and organizations to send or receive ECA from their existing Social Media audiences. 
+SocialPay by Electra is an automated application that enables individuals and organizations to leverage the power of Social Media. This is accomplished by initiating ECA transactions on a large scale, allowing content providers and organizations to send or receive ECA within their existing Social Media audiences. 
 
 Electra’s Social Pay application is currently integrated with the platforms of Twitter, Telegram, Discord and Slack. As development of this service continues additional Social Media platforms will be added to include Facebook, Reddit, Instagram, Weibo, and others.
 
@@ -281,21 +293,22 @@ Provided below is an example of how SocialPay may be used.
 
 * The Red Cross is responding to an emergency situation and would like to raise funds to provide relief for those affected. By using the Electra SocialPay application and asking their followers for donations via Twitter, they can reach their entire audience within minutes. Once the application is set up, any Twitter user will be able to send an ECA donation via a direct message to the Red Cross. The Red Cross will then instantly receive the ECA within its account and be able to use the funds where they are most needed.
 
+
 Future developments within Electra’s SocialPay application are aimed at expanding the possible field of Social Media participants.
 
 ## Atomic Swaps
 
 Why Atomic Swaps ?
 
-Thousands of cryptocurrencies are currently in existence and the number continues to grow exponentially as blockchain technology is adopted.  It remains a complex task to exchange one cryptocurrency for another when payment needs require different currencies. Cryptocurrency transactions are currently not reversible. This requires the use of a trusted third party to ensure that both sides of a transaction are resolved, so exchanges are used to accomplish the trading of different cryptocurrencies. The Electra community understands the need to fill this void. Atomic Swaps is the answer.
-
-![image alt text](images/image_0.png)
+Thousands of cryptocurrencies are currently in existence and the number continues to grow exponentially as blockchain technology is adopted. It remains a complex task to exchange one cryptocurrency for another when payment needs require different currencies. Cryptocurrency transactions are currently not reversible. This requires the use of a trusted third party to ensure that both sides of a transaction are resolved, so exchanges are used to accomplish the trading of different cryptocurrencies. The Electra community understands the need to fill this void. Atomic Swaps is the answer.
 
 Electra’s atomic swap architecture generates a hash-time-locked contract, which uses multi-signature addresses and time locks to secure the transaction at an agreed upon price.
 
-In a two party cryptocurrency transaction using atomic swap transactions on differing blockchains can occur simultaneously and are secured by the sharing of a private code between both parties. Use of the private code by one party will only complete the transaction if the second party also uses the same private code. Failure by one party to send the agreed upon amount of currency or to enter the correct code results in cancellation of the transaction and the return of all funds to their original location. This removes the need for trusted third party intervention.
+![image alt text](images/image_0.png)
 
-For example, if a consumer wanted to use ECA to pay for pizza at a restaurant that accepts only Bitcoin, a complex series of operations must take place as illustrated below.
+In a two-party cryptocurrency transaction using atomic swaps on transactions on differing blockchains can occur simultaneously and can be secured by the sharing of a private code between both parties. Use of the private code by one party will only complete the transaction if the second party also uses the same private code. Failure by one party to send the agreed upon amount of currency or to enter the correct code results in cancellation of the transaction and the return of all funds to their original location. This process removes the need for trusted third party intervention.
+
+Imagine you want to use ECA to pay for pizza at a restaurant that accepts only Bitcoin. A complex series of operations must first take place as illustrated below:
 
 * Access an exchange
 
@@ -315,7 +328,7 @@ It is easy to see why the process is not currently used in commercial interactio
 
 ### Applying Atomic Swaps
 
-The following is a list of operations that would be required when employing Atomic Swap technology for the same transaction: paying for pizza with ECA at an establishment that accepts only Bitcoin.
+The following is a list of operations that would be required with Atomic Swap technology employed in the same transaction: paying for pizza with ECA at an establishment that only accepts Bitcoin.
 
 * Open your Electra application
 
@@ -327,7 +340,7 @@ Atomic Swap technology greatly reduces the complexity of the transaction between
 
 ## Master Nodes
 
-# Master Node implementation is an essential part of the ECA development process. Implementing Master Nodes on the ECA network will provide the following main benefits:
+Master Node implementation is an essential part of the ECA development process. Implementing Master Nodes on the ECA network will provide the following main benefits:
 
 *  Faster Transactions on the ECA Network
 
@@ -341,7 +354,7 @@ To initiate and run a Master Node, Electra community members apply to the core d
 
 ## Web Wallet
 
-# Not all users want to install a desktop or mobile wallet. Electra’s Web Wallet offers an online solution that provides users the same functions. The following main development blocks have been identified:
+Not all users want to install a desktop or mobile wallet. Electra’s Web Wallet offers an online solution that provides users the same functions. The following main development blocks have been identified:
 
 * Wallet Subsystem
 
@@ -411,9 +424,9 @@ The ECA Core is the backend engine consisting of the following modules:
 
     * Wallet information including balances and staking
 
-![image alt text](images/image_3.png)
-
 **Web Interface**
+
+![image alt text](images/image_3.png)
 
 The Web Interface is the front-end interface between the user and ECA Core and includes the following modules:
 
@@ -455,7 +468,7 @@ The Web Interface is the front-end interface between the user and ECA Core and i
 
 # Roadmap
 
-## Below you will find a truncated version of our roadmap current as of the time of this publication for reference. For the most current version and additional detail regarding our roadmap please visit https://electraproject.org/road-map
+Below you will find a truncated version of our roadmap for reference current as of the time of this publication. For the most current version and additional detail regarding the Roadmap please visit https://electraproject.org/road-map
 
 ## Milestones Achieved
 
@@ -491,9 +504,7 @@ The Web Interface is the front-end interface between the user and ECA Core and i
 
 * Reach 10,000 users between Discord and Telegram
 
-* Establish Team Account on Github
-
-* Create Team Account for Electra Project developers
+* Establish Team Account for Electra Project developers on Github
 
 * White Paper Release
 
@@ -513,7 +524,7 @@ The Web Interface is the front-end interface between the user and ECA Core and i
 
 * White Paper Update 1.02
 
-* Coinomi integration for Electra mobile environment wallet option
+* (Optional) Coinomi integration for Electra mobile environment wallet option
 
 * Boost adoption Phase 1: 
 
@@ -533,11 +544,9 @@ The Web Interface is the front-end interface between the user and ECA Core and i
 
 * Commence online merchant payment API/Gateway development
 
-* Tor Integrated Wallets: Use TOR/I2P networks to boost privacy features
+* Tor Integrated Wallets: Use TOR/I2P networks to boost privacy features (optional)
 
 * Boost adoption Phase 2: 
-
-    * Continue Atomic SWAP development
 
     * Listings on more new exchanges
 
@@ -563,75 +572,63 @@ The Web Interface is the front-end interface between the user and ECA Core and i
 
 **Q4 2018**
 
-* New Roadmap
-
-# Updates and Upgrades to this White Paper
-
-# The Open Paper
-
-This White Paper does not end here. Electra’s White Paper is the beginning of a much more comprehensive shared document known as an "Open Paper". The Open Paper will be the reference technical sheet for the Electra Project and will be open to contributors to ensure ongoing development. The Open Paper is available on Github within the official Electra Project page and is available for all who wish to contribute to the growth of the project. 
-
-[https://github.com/Electra-project](https://github.com/Electra-project).
-
-The Electra Community, in collaboration with Electra's Core Team, is committed to reviewing and updating the Open Paper and implementing additional proposals and projects on a monthly basis, starting with the release of our White Paper.  Every user is called upon to contribute. If you disagree with suggestions proposed please feel free to express your opinion and provide your constructive criticism. Your input and feedback are the driving force behind Electra’s development.
-
-Next White Paper Update: February 28, 2018
+* Release New Roadmap
 
 # Electra Team
 
-The Electra Community is rapidly expanding and organizing in new ways.  During the next few weeks all active members of the Management & Development Team and their qualifications will be added to the official Electra Project website.
+The Electra Community is rapidly expanding and organizing in new ways. During the next few weeks all active members of the Management & Development Team and their qualifications will be added to the official Electra Project website.
 
 [https://electraproject.org/our-team](https://electraproject.org/our-team).   
 
-Join Electra’s Discord server and meet our community of developers, contributors, moderators, Electrans and community members.*  *Decisions regarding team membership are made by community consensus.* *Participation of team members is subject to change based on the needs and desires of the community.
+Join Electra’s Discord server and meet our community of developers, contributors, moderators, Electrans and community members. Decisions regarding team membership are made by community consensus. 
 
 * [https://discord.gg/XP7nShh](https://discord.gg/XP7nShh)
 
+Our list of team members is subject to change based on the needs and desires of the community.
 
-
-Management & Development Team
+## Management & Development Team
 
 The Electra Management & Development Team consists of core developers, project managers, community managers, UI/UX designers, web designers and marketing developers.
 
-* Admin [@Admin#8523] 
+* Admin [@Admin#8523]
 
-* sols [@sols#3895] 
+* sols [@sols#3895]
 
-* jax [@jax#0250] 
+* jax [@jax#0250]
 
-* Kurcide [@Kurcide#5698] 
+* Kurcide [@Kurcide#5698]
 
-* Renat_77 [@Renat_77#0464] 
+* Renat_77 [@Renat_77#0464]
 
-* Sarah [@Sarah#3781] 
+* Sarah [@Sarah#3781]
 
 * scibot [@scibot#3330]
 
-* Zewior [@Zewior#9267] 
+* Zewior [@Zewior#9267]
 
-* Studly [@Studly#2360] 
+* Studly [@Studly#2360]
 
-* boiiii [@boiiii#7402] 
+* boiiii [@boiiii#7402]
 
-* Stefs [@Stefs#2147] 
+* Stefs [@Stefs#2147]
 
-* cybergipsy [@cybergipsy#2912] 
+* cybergipsy [@cybergipsy#2912]
 
-* CryptBay [@CryptBay#8978] 
+* CryptBay [@CryptBay#8978]
 
 * Deman [@Deman#3755]
 
-* Elec Elec [@Elec Elec#5381] 
+* Elec Elec [@Elec Elec#5381]
 
 * francescodangelo [@francescodangelo#9089]
 
-* gabsale [@gabsale#0137] 
+* gabsale [@gabsale#0137]
 
 * The revolution [@The revolution#7705]
 
 Developing.IT Team
 
-Composed of developers within the community, the developing.it team supports marketing and website management. 
+Composed of developers within the community, the Developing.IT team supports marketing and website management. 
 
 * greyfox [@greyfox#9485]
 
@@ -643,89 +640,87 @@ Additional Contributors
 
 Community contributors, developers, designers, copywriters, translators, and professional investors in Electra who play an active role within the community with regards to development and decision making. 
 
-* Billy [@Billy#7650] 
+* Billy [@Billy#7650]
 
-* Brik [@Brik#7504] 
+* Brik [@Brik#7504]
 
-* CryptoProphet [@CryptoProphet#8960] 
+* CryptoProphet [@CryptoProphet#8960]
 
-* Daniyal [@Daniyal#4288] 
+* Daniyal [@Daniyal#4288]
 
-* Dmitry [@Dima#4629] 
+* Dmitry [@Dima#4629]
 
-* ECA Shark (Oznoska)[@ECA Shark (Oznoska)#4946] 
+* ECA Shark (Oznoska)[@ECA Shark (Oznoska)#4946]
 
-* ECA_BEAR [@ECA_BEAR#8668] 
+* ECA_BEAR [@ECA_BEAR#8668]
 
-* Enratic [@Enratic#2818]] 
+* Enratic [@Enratic#2818]]
 
-* FARS [@FARS#8975] 
+* FARS [@FARS#8975]
 
-* Fanos [@Fanos#5697] 
+* Fanos [@Fanos#5697]
 
-* Game Stack [@Game Stack#9024] 
+* Game Stack [@Game Stack#9024]
 
-* Greenbigfrog [@greenbigfrog#4461] 
+* Greenbigfrog [@greenbigfrog#4461]
 
 * HeathHimself [@HeathHimself#5438]
 
-* highwaystar_crypto [@highwaystar_crypto#9211] 
+* highwaystar_crypto [@highwaystar_crypto#9211]
 
-* hyjazl [@hyjazl#5030]
+* hyjazl [@hyjazl#5030]iizzzzz [@iizzzzz#6287]
 
-* iizzzzz [@iizzzzz#6287] 
+* Isoetes [@Isoetes#7671]
 
-* Isoetes [@Isoetes#7671] 
+* Ivan [@Ivan#9565]
 
-* Ivan [@Ivan#9565] 
+* john.connor.T800 [@john.connor.T800#9802]
 
-* john.connor.T800 [@john.connor.T800#9802] 
+* joshua [@joshua#5437]
 
-* joshua [@joshua#5437] 
+* Niilay [@Niilay#0002]
 
-* Niilay [@Niilay#0002] 
+* oxymorum [@oxymorum#6684]
 
-* oxymorum [@oxymorum#6684] 
+* pskow [@pskow#8106]
 
-* pskow [@pskow#8106] 
+* Randall [@Randall#9867]
 
-* Randall [@Randall#9867] 
+* reqviem [@reqviem#3378]
 
-* reqviem [@reqviem#3378] 
-
-* Ruru [@Ruru#9895] 
+* Ruru [@Ruru#9895]
 
 * Serapium [@Serapium#2642]
 
-* sheppard94 [@sheppard94#9729] 
+* sheppard94 [@sheppard94#9729]
 
-* sinya_mori [@sinya_mori#3789] 
+* sinya_mori [@sinya_mori#3789]
 
-* Slick [@Slick#3955] 
+* Slick [@Slick#3955]
 
-* solacespecs [@solacespecs#6361] 
+* solacespecs [@solacespecs#6361]
 
-* sortsy [@sortsy#2585] 
+* sortsy [@sortsy#2585]
 
-* soupli [@soupli#8718] 
+* soupli [@soupli#8718]
 
-* steefaan [@steefaan#5815] 
+* steefaan [@steefaan#5815]
 
 * Stuyk [@Stuyk#6645]
 
-* Teddy_can [@Teddy_can#2112] 
+* Teddy_can [@Teddy_can#2112]
 
-* TheWatcher [@TheWatcher#4267] 
+* TheWatcher [@TheWatcher#4267]
 
-* thomasotter [@thomasotter#0672] 
+* thomasotter [@thomasotter#0672]
 
-* tureki [@tureki#6243] 
+* tureki [@tureki#6243]
 
-* xafilox [@xafilox#5093] 
+* xafilox [@xafilox#5093]
 
-* xInfinitYz [@xInfinitYz#3970] 
+* xInfinitYz [@xInfinitYz#3970]
 
-* Zukunft [@Zukunft#3000] 
+* Zukunft [@Zukunft#3000]
 
 * KYO [@KYO#5513]
 
@@ -751,7 +746,7 @@ Lead moderators in community management.
 
 Support Moderators 
 
-Moderators of Discord and Telegram servers, Reddit, Twitter, Instagram and other social media channels. 
+Moderators of Discord and Telegram servers, Reddit, Twitter, Instagram and other social media channels
 
 * AshElxctra [@AshElxctra#2689]
 
@@ -763,11 +758,7 @@ Moderators of Discord and Telegram servers, Reddit, Twitter, Instagram and other
 
 * Deemer [@Deemer#3024]
 
-* Diemon [@Diemon#9910]
-
 * ECA_Frog [@ECA_Frog#8988]
-
-* ECA Alpaca [@Tojemi#5541]
 
 * Electra Wire [@Electra Wire#1972]
 
@@ -795,157 +786,161 @@ Moderators of Discord and Telegram servers, Reddit, Twitter, Instagram and other
 
 * ZachDaMan [@ZachDaMan#7268]
 
+* Diemon [@Diemon#9910]
+
 Electrans 
 
-Members of the community with voting rights.  ECA investors who participate in community decisions, formulate proposals and suggestions, and autonomously manage marketing channels in a decentralized way. 
+Members of the community with voting rights, ECA investors who participate in community decisions, formulate proposals and suggestions, and autonomously manage marketing channels in a decentralized way. 
 
-* Adam360 [@Adam360#2926] 
+* Adam360 [@Adam360#2926]
 
-* adolist [@adolist#2441] 
+* adolist [@adolist#2441]
 
-* ajdeca [@ajdeca#7711] 
+* ajdeca [@ajdeca#7711]
 
-* alfm27 [@alfm27#1080] 
+* alfm27 [@alfm27#1080]
 
-* Amarin [@Amarin#8429] 
+* Amarin [@Amarin#8429]
 
-* antwonr15 [@antwonr15#6311] 
+* antwonr15 [@antwonr15#6311]
 
-* B.Selvi [@B.Selvi#8923] 
+* B.Selvi [@B.Selvi#8923]
 
-* bigman19916 [@bigman19916#6798] 
+* bigman19916 [@bigman19916#6798]
 
-* BillySquire [@BillySquire#2555] 
+* BillySquire [@BillySquire#2555]
 
-* BitJack77 [@BitJack77#13] 
+* BitJack77 [@BitJack77#13]
 
-* buddyman1125 [@buddyman1125#3335] 
+* buddyman1125 [@buddyman1125#3335]
 
-* Casino Knight [@Casino Knight#1367] 
+* Casino Knight [@Casino Knight#1367]
 
-* chegevm [@chegevm#6253] 
+* chegevm [@chegevm#6253]
 
-* Coolcovey [@Coolcovey#8682] 
+* Coolcovey [@Coolcovey#8682]
 
-* cristianlazarus [@cristianlazarus#7696] 
+* cristianlazarus [@cristianlazarus#7696]
 
-* CryptoLuke [@CryptoLuke#7069] 
+* CryptoLuke [@CryptoLuke#7069]
 
-* Devoid [@Devoid#9341] 
+* Devoid [@Devoid#9341]
 
-* DigitalByte [@\DigitalByte\ #2118] 
+* DigitalByte [@\DigitalByte\ #2118]
 
-* DVSN [@DVSN#5471] 
+* DVSN [@DVSN#5471]
 
-* ECA Ape [@ECA Ape#0242] 
+* ECA Ape [@ECA Ape#0242]
 
-* ECA Psychic [@ECA Psychic#9137] 
+* ECA Psychic [@ECA Psychic#9137]
 
-* ECA Axolotl [@ECA Axolotl#4976] 
+* ECA Axolotl [@ECA Axolotl#4976]
 
-* ECA Giraffe [@ECAGiraffe#5553] 
+* ECA Giraffe [@ECAGiraffe#5553]
 
-* ECA Walrus [@ECA Walrus#3342] 
+* ECA Penguin [@ECA Penguin#8261]
 
-* ECA Whale [@ECA Whale#7571] 
+* ECA Walrus [@ECA Walrus#3342]
 
-* ECAstronaut [@ECAstronaut#6712] 
+* ECA Whale [@ECA Whale#7571]
 
-* Eisenberg [@Eisenberg#1461] 
+* ECAstronaut [@ECAstronaut#6712]
 
-* Electric Type [@Electric Type#4326] 
+* Eisenberg [@Eisenberg#1461]
 
-* Eskydar [@Eskydar#3302] 
+* Electric Type [@Electric Type#4326]
 
-* Flow [@Flow#0306] 
+* Eskydar [@Eskydar#3302]
 
-* grant2cool [@grant2cool#3338] 
+* Flow [@Flow#0306]
 
-* Gulrokacus [@Gulrokacus#9849] 
+* grant2cool [@grant2cool#3338]
 
-* hyppaface [@hyppaface#5750] 
+* Gulrokacus [@Gulrokacus#9849]
 
-* jaxteller [@jaxteller#6465] 
+* hyppaface [@hyppaface#5750]
 
-* JayJay [@JayJay#7073] 
+* jaxteller [@jaxteller#6465]
 
-* jjjj666 [@jjjj666#2463] 
+* JayJay [@JayJay#7073]
 
-* joshuahay [@joshuahay#6843] 
+* jjjj666 [@jjjj666#2463]
 
-* Junky [@Junky#4356] 
+* joshuahay [@joshuahay#6843]
+
+* Junky [@Junky#4356]
 
 * kL4RiWolf [@kL4RiWolf#2159] 
 
-* LAZA [@LAZA#5333] 
+* LAZA [@LAZA#5333]
 
-* linuziii [@linuziii#7858] 
+* linuziii [@linuziii#7858]
 
-* lucacrea [@lucacrea#8413] 
+* lucacrea [@lucacrea#8413]
 
-* MadAreYou [@MadAreYou#6263] 
+* MadAreYou [@MadAreYou#6263]
 
-* MaffeProg [@MaffeProg#1162] 
+* MaffeProg [@MaffeProg#1162]
 
-* manu2424 [@manu2424#4359] 
+* manu2424 [@manu2424#4359]
 
 * marky mark [@marky mark#9217]
 
-* meansofcrypto [@meansofcrypto#3224] 
+* meansofcrypto [@meansofcrypto#3224]
 
-* mec1988 [@mec1988#6670] 
+* mec1988 [@mec1988#6670]
 
-* Menardi [@Menardi#2514] 
+* Menardi [@Menardi#2514]
 
-* moonswamp-coin8coin [@moonswamp-coin8coin#8794] 
+* moonswamp-coin8coin [@moonswamp-coin8coin#8794]
 
-* Mr. Underhill [@Mr. Underhill#6018] 
+* Mr. Underhill [@Mr. Underhill#6018]
 
-* nashsclay [@nashsclay#6809] 
+* nashsclay [@nashsclay#6809]
 
-* Nika_Smouzh [@Nika_Smouzh#2469] 
+* Nika_Smouzh [@Nika_Smouzh#2469]
 
-* nwaribo [@nwaribo#2193] 
+* nwaribo [@nwaribo#2193]
 
-* Obese to Physique [@Obese to Physique#8345] 
+* Obese to Physique [@Obese to Physique#8345]
 
-* papajoelius [@papajoelius#3962] 
+* papajoelius [@papajoelius#3962]
 
-* Paul [@Paul#1682] 
+* Paul [@Paul#1682]
 
-* PIP [@PIP#6562] 
+* PIP [@PIP#6562]
 
-* Powerade [@Powerade#2852] 
+* Powerade [@Powerade#2852]
 
-* Rayman [@Rayman#6865] 
+* Rayman [@Rayman#6865]
 
-* Ronan [@Ronan#6229] 
+* Ronan [@Ronan#6229]
 
-* Ruru [@Ruru#9895] 
+* Ruru [@Ruru#9895]
 
-* Sergey [@Sergey#2762] 
+* Sergey [@Sergey#2762]
 
-* shosa [@shosa#3836] 
+* shosa [@shosa#3836]
 
-* Skalizar [@Skalizar#5548] 
+* Skalizar [@Skalizar#5548]
 
-* SomeGuy [@SomeGuy#3909] 
+* SomeGuy [@SomeGuy#3909]
 
-* Stephen [@sms19#6542] 
+* Stephen [@sms19#6542]
 
-* Tim B [@Tim B#2383] 
+* Tim B [@Tim B#2383]
 
-* TNmissionary [@TNmissionary#1316] 
+* TNmissionary [@TNmissionary#1316]
 
-* UsmanHussain [@UsmanHussain#1136] 
+* UsmanHussain [@UsmanHussain#1136]
 
-* Wayno717 [@Wayno717#5756] 
+* Wayno717 [@Wayno717#5756]
 
-* yuliasih [@yuliasih#1205] 
+* yuliasih [@yuliasih#1205]
 
-* ZachDaMan [@ZachDaMan#7268] 
+* ZachDaMan [@ZachDaMan#7268]
 
-* Zarag (Quokka) [@Zarag (Quokka)#2781] 
+* Zarag (Quokka) [@Zarag (Quokka)#2781]
 
 * ZorgThePencil [@ZorgThePencil#8182]
 
@@ -955,11 +950,27 @@ Members of the community with voting rights.  ECA investors who participate in c
 
 *The new community roadmap is ambitious and aims to make Electra a premier cryptocurrency. For these goals, as well as my own, the development team has been expanded and will also eventually become self-governing. Just as I have done so far, I will aid Electra’s expansion and provide funding when necessary for future endeavours.* Electra01
 
+# Updates and Upgrades to this White Paper
+
+# The Open Paper
+
+This White Paper does not end here. Electra’s White Paper is the beginning of a much more comprehensive shared document known as an “Open Paper”. The Open Paper will be the reference technical sheet for the Electra Project and will be open to contributors to ensure ongoing development. The Open Paper is available on Github within the official Electra Project page and is available for all who wish to contribute to the growth of the project. 
+
+[https://github.com/Electra-project/Electra-Open-Paper/blob/master/ElectraWhitePaper-TheOpenPaper.md](https://github.com/Electra-project/Electra-Open-Paper/blob/master/ElectraWhitePaper-TheOpenPaper.md).
+
+The Electra Community, in collaboration with Electra’s Core Team, is committed to reviewing and updating the Open Paper and implementing additional proposals and projects on a monthly basis, starting with the release of our White Paper.
+Every user is called upon to contribute. If you disagree with suggestions proposed please feel free to express your opinion and provide your constructive criticism. Your input and feedback are the driving force behind Electra’s development.
+
+Next White Paper Update: February 28, 2018
+
 # Disclaimer
 
 Copyright ©2018.** Electra Project (Electra)**. All Rights Reserved. 
 
-Contact The Electra Development Team at dev@electraproject.org for commercial licensing opportunities.Permission to use, copy, modify, and distribute this software and its documentation for educational, research, and not-for-profit purposes, without fee and without a signed licensing agreement, is hereby granted, provided that the above Copyright notice, this paragraph and the following two paragraphs appear in all copies, modifications, and distributions. 
+All Rights Reserved. Permission to use, copy, modify, and distribute this software and its documentation for educational, research, and not-for-profit purposes, without fee and without a signed licensing agreement, is hereby granted, provided that the above copyright notice, this paragraph and the following two paragraphs appear in all copies, modifications, and distributions. 
+
+Contact The Electra Development Team dev@electraproject.org for commercial
+licensing opportunities.
 
 IN NO EVENT SHALL ELECTRA BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, ARISING OUT OF THE USE OF THIS SOFTWARE AND ITS DOCUMENTATION, EVEN IF  ELECTRA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
@@ -970,8 +981,6 @@ WE THEREFORE HOLD NO RESPONSIBILITY, LIABILITY FOR YOUR USE OF THIS WHITE PAPER 
  
 
 **THIS SERVICE/ASSET/SOFTWARE SHOULD NOT BE USED FOR PARTICIPATION/PURCHASING OF ILLEGAL GOODS, DRUGS AND ACTIVITIES, AS IT IS STRICTLY PROHIBITED.**
-
-Contact The Electra Development Team at dev@electraproject.org for commercial licensing opportunities.
 
 Contact Us: info@electra.support
 
