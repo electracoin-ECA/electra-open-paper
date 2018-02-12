@@ -67,10 +67,10 @@ Through this process, participants within the economic system are no longer rele
 - [Roadmap](#roadmap)
     - [Milestones Achieved](#milestones-achieved)
     - [Planned Goals and Objectives](#planned-goals-and-objectives)
-- [Updates and Upgrades to this White Paper](#updates-and-upgrades-to-this-white-paper)
-- [The Open Paper](#the-open-paper)
 - [Electra Team](#electra-team)
 - [Founder's Vision](#founders-vision)
+- [Updates and Upgrades to this White Paper](#updates-and-upgrades-to-this-white-paper)
+- [The Open Paper](#the-open-paper)
 - [Disclaimer](#disclaimer)
 
 
