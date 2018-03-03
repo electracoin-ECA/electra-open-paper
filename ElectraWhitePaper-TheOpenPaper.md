@@ -170,7 +170,7 @@ ECA transactions are received in the recipient’s wallet almost instantly and t
 
 ## Transaction Fees Approaching Zero
 
-With transaction fees on the Electra network of 0.00001 ECA, it takes 100,000 transactions to accumulate one ECA worth of transaction fees (approximately $0.004 USD at time of this publication). The resulting cost per transaction is approximately $0.00000004.
+With transaction fees on the Electra network of 0.00001 ECA, it takes 100,000 transactions to accumulate one ECA worth of transaction fees (approximately $0.001 USD at time of this publication). The resulting cost per transaction is approximately $0.00000001.
 
 ## Staking Rewards
 
