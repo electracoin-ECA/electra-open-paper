@@ -1,6 +1,6 @@
 # Electra White Paper - The Open Paper
 
-30 January 2018
+17 May 2018
 
 ### Abstract
 
@@ -22,7 +22,7 @@ Electra is also a contract that offers the investor full participation in the de
 
 * Access to technical support
 
-The Electra Blockchain and the ECA coin are a product of the combined skills and abilities of an ever-growing community of coders, developers, business professionals and other contributors. ECA is built on a fully functional and feature rich blockchain with a stable and solid foundation. This foundation provides the reliable platform needed for our talented community of developers to innovate, invent and build upon. Blockchain technology evolves on a daily basis. As this technology improves, ECA’s foundation will expand and grow in tandem with the latest innovations.
+The Electra Blockchain and the ECA coin are a product of the combined skills and abilities of an ever-growing community of coders, developers, business professionals, and other contributors. ECA is built on a fully functional and feature rich blockchain with a stable and solid foundation. This foundation provides the reliable platform needed for our talented community of developers to innovate, invent, and build upon. Blockchain technology evolves on a daily basis. As this technology improves, ECA’s foundation will expand and grow in tandem with the latest innovations.
 
 Digital currency was created to bring change to the financial world through the decentralization and disintermediation of the global financial ecosystem.
 Progress towards this goal has thus far been inhibited by insufficient technical tools that alone are simply not enough to affect mass adoption of blockchain technology. Recent technological developments are only now beginning to unlock new possibilities, resulting in paradigm shifts within the cryptocurrency ecosystem regarding the scalability, accessibility, speed, and cost of blockchain applications.
@@ -141,15 +141,15 @@ In practice, the NIST5 algorithm as implemented in ECA selects the most benefici
 
 The underlying blockchain of the ECA coin utilizes a modified version of the NIST5 algorithm with the following properties: 
 
-* Block Size: 1MB
+* Block Size: 1MB >>> after blockchain fork >>> 2MB
 
-* Block Time: 5 minutes (288 blocks per day)
+* Block Time: 5 minutes (288 blocks per day) >>> after blockchain fork >>> 90 seconds (960 blocks per day)
 
 * Max Supply: 30,000,000,000
 
 * Pre-mined: 1,000,000,019 (approximately 3.34%)
 
-* Difficulty Target: Retarget occurs every 15 minutes (every 3 blocks)
+* Difficulty Target: Retarget occurs every 15 minutes (every 3 blocks) >>> after blockchain fork >>> Retarget occurs every 15 minutes (every 10 blocks)
 
 * Fee: 0.00001 ECA
 
@@ -166,7 +166,7 @@ The underlying blockchain of the ECA coin utilizes a modified version of the NIS
 
 ## Fast Payments
 
-ECA transactions are received in the recipient’s wallet almost instantly and the ECA received is spendable as soon as the transaction is confirmed in the blockchain. The confirmation process requires less than five minutes.
+ECA transactions are received in the recipient’s wallet almost instantly and the ECA received is spendable as soon as the transaction is confirmed in the blockchain. The confirmation process requires less than five minutes. After the upcoming hard fork, confirmations will process in 90 seconds or less.
 
 ## Transaction Fees Approaching Zero
 
@@ -174,13 +174,19 @@ With transaction fees on the Electra network of 0.00001 ECA, it takes 100,000 tr
 
 ## Staking Rewards
 
-ECA features a 50% annual stake reward rate. There is no fixed reward per block. Each stake reward is proportional to the amount staked relative to the total ECA in circulation. Additional information regarding the Proof of Stake reward structure for ECA can be found at: 
+ECA featured a 50% annual stake reward rate as an introductory rate. In order to increase the stability and longevity of the Electra Project, the 50% annual stake reward rate will be decreased to 10% beginning in Q3 of 2018 and will halve annually from 10% to 5%, then finally 2.5%. There is no fixed reward per block. Each stake reward is proportional to the amount staked relative to the total ECA in circulation. 
+
+Minimum stake age: 24 hours
+
+Maximum stake age: 30 days
+
+Additional information regarding the Proof of Stake reward structure for ECA can be found at: 
 
 * https://electraproject.org/crypto-wallet-staking-guide-electra-project
 
 ## Optional Privacy
 
-Future developments within the Electra ecosystem will allow for the use of privacy gateways, including but not limited to the following.
+Future developments within the Electra ecosystem will allow for the use of privacy gateways, including but not limited to the following:
 
 * TOR
 
@@ -202,8 +208,8 @@ When you invest in ECA you become a stakeholder in a fully open source project a
 
 The strength of Electra resides in the contract that guarantees investors full participation in the direction of the project, including all future developments and technologies. ECA’s potential growth is guaranteed because tomorrow’s ECA will not be just another coin, but rather an adaptation to future societal and economic needs. Investors can be confident that when they purchase ECA, they are investing in the present and future growth of a unique cryptocurrency ecosystem.
 
-If an algorithm emerges that is more efficient and superior to NIST5, Electra’s development team is prepared to adapt ECA’s underlying structure to maintain a competitive advantage in the market. As Electra grows the block time can be reduced and the block size can be increased. The adaptability of ECA allows for the blockchain to be maintained while the algorithm is rewritten from scratch.
-In effect Electra is a blank paper for writing revolutionary code. Writing the code of the future on an already active codebase results in a deployed structure that neither obstructs, limits, nor hinders future development. ECA’s architecture allows a subsequent structure to intersect, connect, flank or replace the existing structure. Electra provides a better solution than existing currencies can and guarantees the community full control.
+If an algorithm emerges that is more efficient and superior to NIST5, Electra’s development team is prepared to adapt ECA’s underlying structure to maintain a competitive advantage in the market. As Electra grows, the block time can be reduced and the block size can be increased. The adaptability of ECA allows for the blockchain to be maintained while the algorithm is rewritten from scratch.
+In effect, Electra is a blank paper for writing revolutionary code. Writing the code of the future on an already active codebase results in a deployed structure that neither obstructs, limits, nor hinders future development. ECA’s architecture allows a subsequent structure to intersect, connect, flank or replace the existing structure. Electra provides a better solution than existing currencies can and guarantees the community full control.
 
 # Electra Ecosystem
 
@@ -231,7 +237,7 @@ Electra’s family of products can be summarized into the following categories. 
 
     * Centralized Online Payment Gateway
 
-Each product will be available to any person who has a need to make quick and secure transactions with low fees. The development of wallets, applications and software are driven by the community. Each product will include an integrated support framework, containing user guides and live support from the community.
+Each product will be available to any person who has a need to make quick and secure transactions with low fees. The development of wallets, applications, and software are driven by the community. Each product will include an integrated support framework, containing user guides and live support from the community.
 
 ## Electra Services
 
@@ -273,7 +279,7 @@ Below is a chart showing the various building blocks of the ElectraPay system.
 
 SocialPay by Electra is an automated application that enables individuals and organizations to leverage the power of Social Media. This is accomplished by initiating ECA transactions on a large scale, allowing content providers and organizations to send or receive ECA within their existing Social Media audiences. 
 
-Electra’s Social Pay application is currently integrated with the platforms of Twitter, Telegram, Discord and Slack. As development of this service continues additional Social Media platforms will be added to include Facebook, Reddit, Instagram, Weibo, and others.
+Electra’s Social Pay application is currently integrated with the platforms of Twitter, Telegram, Discord, and Slack. As development of this service continues additional Social Media platforms will be added to include Facebook, Reddit, Instagram, Weibo, and others.
 
 ### Who Is SocialPay For?
 
@@ -586,363 +592,310 @@ Join Electra’s Discord server and meet our community of developers, contributo
 
 Our list of team members is subject to change based on the needs and desires of the community.
 
-## Management & Development Team
+# Electra Project Team
 
-The Electra Management & Development Team consists of core developers, project managers, community managers, UI/UX designers, web designers and marketing developers.
+The Electra Community is a large and diverse group of talented individuals. We have recently restructured our team in order to better organize and complete future goals of the Electra Project. We are a collection of dedicated members with brilliant minds, extensive experience, and a passion for blockchain technology, working towards the advancement of the cryptocurrency industry. Below is the new organization of our backend-development team, responsible for the progression of the Electra Project. 
 
-* Admin [@Admin#8523]
+## Global Coordination
 
-* sols [@sols#3895]
+Ivan#9565- Global Coordinator
 
-* jax [@jax#0250]
+Renat_77#0464- Global Coordinator
 
-* Kurcide [@Kurcide#5698]
+ECA Mom#7044- Global Coordinator
 
-* Renat_77 [@Renat_77#0464]
+Asmoth#0436 - Global Coordinator/ Community Governance Coordinator
 
-* Sarah [@Sarah#3781]
+Master Den#8523 - Global Coordinator/ Financial Pole Coordinator
 
-* scibot [@scibot#3330]
+## Founder
 
-* Zewior [@Zewior#9267]
+E01#3675 - Electra Founder & Developer
 
-* Studly [@Studly#2360]
+## Community Governance Team
 
-* boiiii [@boiiii#7402]
+Wolf#5660 - Community Governance Coordinator & Democracy Head Moderator
 
-* Stefs [@Stefs#2147]
+cuban467#5290 - Democracy Moderator
 
-* cybergipsy [@cybergipsy#2912]
+Asmoth#0436 - Community Governance Coordinator & Democracy Moderator
 
-* CryptBay [@CryptBay#8978]
+Ryu#9160 - Democracy Head Planner
 
-* Deman [@Deman#3755]
+Ms. ECA Giraffe#5553 - Community Governance Coordinator & Democracy Planner
 
-* Elec Elec [@Elec Elec#5381]
+CryptoLife#2846 - Democracy Planner
 
-* francescodangelo [@francescodangelo#9089]
+Zarag (Quokka)#2781 - Democracy Planner
 
-* gabsale [@gabsale#0137]
+## Communications Team
 
-* The revolution [@The revolution#7705]
+pbp8ntballer#1492 - Communications Coordinator
 
-Developing.IT Team
+## Design & Content Team
 
-Composed of developers within the community, the Developing.IT team supports marketing and website management. 
+ECA Walrus#3342 - 2D Designer
 
-* greyfox [@greyfox#9485]
+Prophet Cable#8792 - 3D Animator
 
-* lele3737 [@lele3737#3262]
+ECA Link#2068 - Design & Content Coordinator Illustrator/Designer
 
-* nicofly [@nicofly#4921]
+Zukunft#3000 - Design & Content Coordinator & Brand Strategist
 
-Additional Contributors
+Frank Castle#0420 - Artistic Designer
 
-Community contributors, developers, designers, copywriters, translators, and professional investors in Electra who play an active role within the community with regards to development and decision making. 
+freematikk#9191 - Graphic Designer
 
-* Billy [@Billy#7650]
+CoinKovala#1946 - Graphic Designer
 
-* Brik [@Brik#7504]
+reqviem#3378 - Designer
 
-* CryptoProphet [@CryptoProphet#8960]
+Xalyn#1371 - Designer
 
-* Daniyal [@Daniyal#4288]
+jacuzzi#8193 - Musical Composer/ Audio Engineer
 
-* Dmitry [@Dima#4629]
+From_Shrimp_To_Whale#9590 - Photograph/ Photo Editor
 
-* ECA Shark (Oznoska)[@ECA Shark (Oznoska)#4946]
+Guv’nah#0565 - writer
 
-* ECA_BEAR [@ECA_BEAR#8668]
+Zoras#9628 - writer
 
-* Enratic [@Enratic#2818]]
+## Coordination
 
-* FARS [@FARS#8975]
+Asmoth#0436 - Community Governance Coordinator				
 
-* Fanos [@Fanos#5697]
+The revolution#7705 - International Embassy Coordinator
 
-* Game Stack [@Game Stack#9024]
+RobertBakker#4126 - International Embassy Coordinator
 
-* Greenbigfrog [@greenbigfrog#4461]
+Master Den#8523 - Exchanges Manager Financial Pole Coordinator
 
-* HeathHimself [@HeathHimself#5438]
+Daemon#1337 - Digital Marketing Coordinator
 
-* highwaystar_crypto [@highwaystar_crypto#9211]
+ECA Link#2068 - Design & Content Coordinator
 
-* hyjazl [@hyjazl#5030]iizzzzz [@iizzzzz#6287]
+Irfaan#8592 - Lead Strategy Manager Strategy Pole Coordinator
 
-* Isoetes [@Isoetes#7671]
+Maverick#8909 - Digital Marketing Coordinator & Marketing Officer
 
-* Ivan [@Ivan#9565]
+Miley Cyrus#8370 - Electra Newsroom Coordinator
 
-* john.connor.T800 [@john.connor.T800#9802]
+Ms. ECA Giraffe#5553 - Community Governance Coordinator
 
-* joshua [@joshua#5437]
+Ruru#9895 - Software Development Coordinator
 
-* Niilay [@Niilay#0002]
+Sabreena#5794 - Electra University Coordinator
 
-* oxymorum [@oxymorum#6684]
+Studly#2360 - User Support Coordinator
 
-* pskow [@pskow#8106]
+nashsclay#6809 - User Support Coordinator
 
-* Randall [@Randall#9867]
+pbp8ntballer#1492 - Communications Coordinator
 
-* reqviem [@reqviem#3378]
+UnderTow#7302 - Editor In Chief 
 
-* Ruru [@Ruru#9895]
+Wolf#5660 - Community Governance Coordinator
 
-* Serapium [@Serapium#2642]
+## Digital Marketing
 
-* sheppard94 [@sheppard94#9729]
+Daemon#1337 - Digital Marketing Coordinator & Digital Marketing Lead
 
-* sinya_mori [@sinya_mori#3789]
+jartsa#4529 - Community Editor
 
-* Slick [@Slick#3955]
+adolist#2441 - Community Manager
 
-* solacespecs [@solacespecs#6361]
+ECA Whale#7571 - Data Analyst
 
-* sortsy [@sortsy#2585]
+Tal Rasha#1949 - Marketing Strategist
 
-* soupli [@soupli#8718]
+VisQi#3062 - Marketing Officer
 
-* steefaan [@steefaan#5815]
+Maverick#8909 - Digital Marketing Coordinator & Marketing Officer
 
-* Stuyk [@Stuyk#6645]
+## Developing IT
 
-* Teddy_can [@Teddy_can#2112]
+lele3737#3262 
 
-* TheWatcher [@TheWatcher#4267]
+nicofly#4921 
 
-* thomasotter [@thomasotter#0672]
+## Electra Newsroom
 
-* tureki [@tureki#6243]
+Miley Cyrus#8370 - Electra Newsroom Coordinator & Video/Audio Editor
 
-* xafilox [@xafilox#5093]
+Danika#1999 
 
-* xInfinitYz [@xInfinitYz#3970]
+Jphantom#6452 - Assistant Editor
 
-* Zukunft [@Zukunft#3000]
+## Electra University
 
-* KYO [@KYO#5513]
+Sabreena#5794 - Electra University Coordinator & Blockchain Teacher
 
-Overseers
+## Financial Pole
 
-Leaders in community management with administrator privileges. 
+Master Den#8523 - Financial Pole Coordinator & Exchanges Manager
 
-* JustOneAndDone [@JustOneAndDone#8706] 
+## International Embassy
 
-* Ryu[Ryu#9160]
+The revolution#7705 - IE Coordinator
 
-Head Moderators
+RobertBakker#4126 - IE Coordinator
 
-Lead moderators in community management.
+OKaxstonIM#3578 - Indonesia Ambassador
 
-* aman_singh12 [@aman_singh12#2365]
+Joko4ko2#0927 - Indonesia Ambassador
 
-* Asmoth [@Asmoth#0436]
+Cpoer2011#5916 - Indonesia Ambassador
 
-* Ultor [@Ultor#4898]
+Eca Turtle#0470 - Switzerland Ambassador
 
-* Wolf [@Wolf#5660]
+[ECA] Winyau#3923 - China Ambassador
 
-Support Moderators 
+[ECA] L#1501 - China Ambassador
 
-Moderators of Discord and Telegram servers, Reddit, Twitter, Instagram and other social media channels
+RobertBakker#4126 - The Netherlands Ambassador
 
-* AshElxctra [@AshElxctra#2689]
+The Revolution#7705 - The Netherlands Ambassador
 
-* clemcoast [@clemcoast#3549]
+La chèvre de Wall Street#2095 - France Ambassador
 
-* Coinwulf [@Coinwulf#9680]
+ECA Ricouskim#8141 - France Ambassador
 
-* Daffy [@Daffy#2616]
+The Electran#4343 - United Kingdom Ambassador
 
-* Deemer [@Deemer#3024]
+scabboy#4229 - Australia Ambassador
 
-* ECA_Frog [@ECA_Frog#8988]
+Alfm27#1080 - United Kingdom Ambassador
 
-* Electra Wire [@Electra Wire#1972]
+Smithandcobuild#3500 - United States Ambassador
 
-* JoshhMetal [@JoshhMetal#4568]
+ECAstronaut#6712 - United States Ambassador
 
-* Macroscopic [@Macroscopic#4036]
+Freyjasjd#2415 - Spain Ambassador
 
-* Miley Cyrus [@Miley Cyrus#8370]
+Giancarlo#9071 - Mexico Ambassador
 
-* nubbins7 [@nubbins7#9317]
+dofus bis#5316 - France Ambassador
 
-* OmniWhale [@OmniWhale#4989]
 
-* Onespiral [@Onespiral#2873]
+## Editorial Team
 
-* Patrick [@Patrick#5252]
+UnderTow#7302 - Editor In Chief 
 
-* Randall Flagg [@Randall Flagg#9820]
+JayAcheSee#2647 - Writer, Proofreader, & Copywriter
 
-* SirStagg [@SirStagg#3930]
+BICLOPS#4181 - Writer, Proofreader, & Copywriter
 
-* Sprite- [@Sprite-#8903]
+## Sales Task Force
 
-* WillyDWhale [@WillyDwhale#2471]
+Zarag#2781- Sales Manager
 
-* ZachDaMan [@ZachDaMan#7268]
+teak38#3024- Sales Manager
 
-* Diemon [@Diemon#9910]
+## Software Development
 
-Electrans 
+Ruru#9895 - Software Development Coordinator & Scrum Master
 
-Members of the community with voting rights, ECA investors who participate in community decisions, formulate proposals and suggestions, and autonomously manage marketing channels in a decentralized way. 
+Boiiii#7402 - Lead Developer
 
-* Adam360 [@Adam360#2926]
+Ivan#9565 - Lead Developer
 
-* adolist [@adolist#2441]
+mdt#9530 - Blockchain Consultant
 
-* ajdeca [@ajdeca#7711]
+thomasotter#0672 - Designer & UX Designer
 
-* alfm27 [@alfm27#1080]
+bumba# - Developer
 
-* Amarin [@Amarin#8429]
+cryptogame#2859 - Developer
 
-* antwonr15 [@antwonr15#6311]
+cybergipsy#2912 - Designer
 
-* B.Selvi [@B.Selvi#8923]
+Giovanni G#2633 - Developer
 
-* bigman19916 [@bigman19916#6798]
+Hyjaz#5030 - Developer
 
-* BillySquire [@BillySquire#2555]
+Kurcide#5698 - Developer
 
-* BitJack77 [@BitJack77#13]
+oxymorum#6684 - Developer
 
-* buddyman1125 [@buddyman1125#3335]
+Powerade#2852 - Developer
 
-* Casino Knight [@Casino Knight#1367]
+RajinM#4265 - Developer
 
-* chegevm [@chegevm#6253]
+tunguyen#4406 - Developer
 
-* Coolcovey [@Coolcovey#8682]
+DigitalByte#2118 - Junior Developer
 
-* cristianlazarus [@cristianlazarus#7696]
 
-* CryptoLuke [@CryptoLuke#7069]
+## Strategy Pole
 
-* Devoid [@Devoid#9341]
+Irfaan#8592 - Strategy Pole Coordinator & Lead Strategy Manager
 
-* DigitalByte [@\DigitalByte\ #2118]
+## Translation Team
 
-* DVSN [@DVSN#5471]
+ChamoLapik#6080 - French translator
 
-* ECA Ape [@ECA Ape#0242]
+Dalekovod#8912 - Croatian translator
 
-* ECA Psychic [@ECA Psychic#9137]
+ECA Ricouskim (FR Ambassador)#8141 - French translator
 
-* ECA Axolotl [@ECA Axolotl#4976]
+Elyseum#7802 - French translator
 
-* ECA Giraffe [@ECAGiraffe#5553]
+fran_ccst#8673 - French translator
 
-* ECA Penguin [@ECA Penguin#8261]
+Hassen#5634 - French translator
 
-* ECA Walrus [@ECA Walrus#3342]
+Ivan#9565 - Global Coordinator & French translator
 
-* ECA Whale [@ECA Whale#7571]
+Casimodo#0811 - German translator
 
-* ECAstronaut [@ECAstronaut#6712]
+GeorgeKaplan#2854 - German translator
 
-* Eisenberg [@Eisenberg#1461]
+MyLittleClooney#2660 - German translator
 
-* Electric Type [@Electric Type#4326]
+Win#1052 - German translator
 
-* Eskydar [@Eskydar#3302]
+Giancarlo ECA Ambassador#9071 - Spanish translator
 
-* Flow [@Flow#0306]
+alexraccc#1227 - Romanian translator
 
-* grant2cool [@grant2cool#3338]
+Andrei#8968 - Romanian translator
 
-* Gulrokacus [@Gulrokacus#9849]
+The revolution#7705 - IE Coordinator & Dutch translator
 
-* hyppaface [@hyppaface#5750]
+Ethereater#2241 - Dutch translator
 
-* jaxteller [@jaxteller#6465]
+StillChill#1824 - Dutch translator
 
-* JayJay [@JayJay#7073]
+ECA_BAEK (KR Ambassador)#0346 - Korean translator
 
-* jjjj666 [@jjjj666#2463]
+ECA SUN TO MOON(<SYMBOLS?)#5149 - Korean translator
 
-* joshuahay [@joshuahay#6843]
+FLORA#9911 - Korean translator
 
-* Junky [@Junky#4356]
+shapplus#9752 - Korean translator
 
-* kL4RiWolf [@kL4RiWolf#2159] 
+tacopico#9673 - Korean translator
 
-* LAZA [@LAZA#5333]
+rybák#5512 - Czech translator
 
-* linuziii [@linuziii#7858]
+[ECA] L (China Ambassador) - Chinese translator
 
-* lucacrea [@lucacrea#8413]
+moradi#6546 - Persian translator
 
-* MadAreYou [@MadAreYou#6263]
+Avversario#4487 - Russian translator
 
-* MaffeProg [@MaffeProg#1162]
+## User Support
 
-* manu2424 [@manu2424#4359]
+Studly#2360- User Support Coordinator & User Support Manager
 
-* marky mark [@marky mark#9217]
+nashsclay#6809- User Support Coordinator & Support Specialist
 
-* meansofcrypto [@meansofcrypto#3224]
+MadAreYou#6263- User Support Specialist
 
-* mec1988 [@mec1988#6670]
+Geralt of Rivia#6290- User Support Specialist
 
-* Menardi [@Menardi#2514]
+mECAmind#3719 - User Support Specialist
 
-* moonswamp-coin8coin [@moonswamp-coin8coin#8794]
-
-* Mr. Underhill [@Mr. Underhill#6018]
-
-* nashsclay [@nashsclay#6809]
-
-* Nika_Smouzh [@Nika_Smouzh#2469]
-
-* nwaribo [@nwaribo#2193]
-
-* Obese to Physique [@Obese to Physique#8345]
-
-* papajoelius [@papajoelius#3962]
-
-* Paul [@Paul#1682]
-
-* PIP [@PIP#6562]
-
-* Powerade [@Powerade#2852]
-
-* Rayman [@Rayman#6865]
-
-* Ronan [@Ronan#6229]
-
-* Ruru [@Ruru#9895]
-
-* Sergey [@Sergey#2762]
-
-* shosa [@shosa#3836]
-
-* Skalizar [@Skalizar#5548]
-
-* SomeGuy [@SomeGuy#3909]
-
-* Stephen [@sms19#6542]
-
-* Tim B [@Tim B#2383]
-
-* TNmissionary [@TNmissionary#1316]
-
-* UsmanHussain [@UsmanHussain#1136]
-
-* Wayno717 [@Wayno717#5756]
-
-* yuliasih [@yuliasih#1205]
-
-* ZachDaMan [@ZachDaMan#7268]
-
-* Zarag (Quokka) [@Zarag (Quokka)#2781]
-
-* ZorgThePencil [@ZorgThePencil#8182]
 
 # Founder’s Vision
 
@@ -964,6 +917,8 @@ Every user is called upon to contribute. If you disagree with suggestions propos
 Next White Paper Update: February 28, 2018
 
 # Disclaimer
+
+The Open Paper changes will precede any changes to the White Paper. 
 
 Copyright ©2018.** Electra Project (Electra)**. All Rights Reserved. 
 
