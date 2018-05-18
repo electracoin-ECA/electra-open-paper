@@ -141,7 +141,7 @@ In practice, the NIST5 algorithm as implemented in ECA selects the most benefici
 
 The underlying blockchain of the ECA coin utilizes a modified version of the NIST5 algorithm with the following properties: 
 
-* Block Size: 1MB >>> after blockchain fork >>> 2MB
+* Block Size: 1MB
 
 * Block Time: 5 minutes (288 blocks per day) >>> after blockchain fork >>> 90 seconds (960 blocks per day)
 
@@ -166,7 +166,7 @@ The underlying blockchain of the ECA coin utilizes a modified version of the NIS
 
 ## Fast Payments
 
-ECA transactions are received in the recipient’s wallet almost instantly and the ECA received is spendable as soon as the transaction is confirmed in the blockchain. The confirmation process requires less than five minutes. After the upcoming hard fork, confirmations will process in 90 seconds or less.
+ECA transactions are received in the recipient’s wallet almost instantly and the ECA received is spendable as soon as the transaction is confirmed in the blockchain. The confirmation process requires less than five minutes. After the upcoming hard fork, confirmations will require 90 seconds or less.
 
 ## Transaction Fees Approaching Zero
 
@@ -174,7 +174,7 @@ With transaction fees on the Electra network of 0.00001 ECA, it takes 100,000 tr
 
 ## Staking Rewards
 
-ECA featured a 50% annual stake reward rate as an introductory rate. In order to increase the stability and longevity of the Electra Project, the 50% annual stake reward rate will be decreased to 10% beginning in Q3 of 2018 and will halve annually from 10% to 5%, then finally 2.5%. There is no fixed reward per block. Each stake reward is proportional to the amount staked relative to the total ECA in circulation. 
+Currently, ECA features a 50% annual stake reward rate as an introductory rate. In order to increase the stability and longevity of the Electra Project, the annual stake reward rate will be reduced to 10% in Q3 of 2018, will halve to 5% the next year, and then to 2.5% every year thereafter. There is no fixed reward per block. Each stake reward is proportional to the amount staked relative to the total ECA in circulation. 
 
 Minimum stake age: 24 hours
 
@@ -263,7 +263,7 @@ At Electra we understand that the idea of managing a digital wallet and using di
 
 ## ElectraPay
 
-ElectraPay is a community driven payment solution for merchants. The codebase consists of a centralized payment facility connected to plugins available for most e-commerce platforms including Magento, WooCommerce and Shopify.
+ElectraPay is a community-driven payment solution for merchants. The codebase consists of a centralized payment facility connected to plugins available for most e-commerce platforms including Magento, WooCommerce, and Shopify.
 
 The ElectraPay system allows merchants to receive payments for their goods and services by easily installing the plugin to their e-commerce websites. Customers will then be able to select ECA as a payment method. The plugin will convert the fiat value to ECA using the latest official ECA price as drawn from multiple exchanges. The customer is then shown a payment address along with a QR code.  
 
@@ -868,7 +868,7 @@ StillChill#1824 - Dutch translator
 
 ECA_BAEK (KR Ambassador)#0346 - Korean translator
 
-ECA SUN TO MOON(<SYMBOLS?)#5149 - Korean translator
+ECA_SUN#5149 - Korean translator
 
 FLORA#9911 - Korean translator
 
