@@ -16,7 +16,7 @@ Electra is also a contract that offers the investor full participation in the de
 
 * The right to obtain project information
 
-* Involvement in  development decisions
+* Involvement in development decisions
 
 * Comprehensive voting rights
 
@@ -32,9 +32,9 @@ The opportunity for dramatic change within a developing ecosystem is unfortunate
 Electra is positioned to become one of the main driving forces of change while these windows of opportunity remain open.
 
 Participants within the traditional economic structure are attempting to employ old logic to adapt to the ongoing restructuring of our economic system, subverting the original intent behind the cryptocurrency movement. The cryptocurrency community must recapture the original spirit behind decentralization
-and the Electra Project is prepared to lead the way. ECA owners are no longer just investors in a cryptocurrency. Instead, by being directly involved in the decision making process investors take part in the entire underlying structure: code innovation, design, marketing, community building, and strategic business development. 
+and the Electra Project is prepared to lead the way. ECA owners are no longer just investors in a cryptocurrency. Instead, by being directly involved in the decision-making process investors take part in the entire underlying structure: code innovation, design, marketing, community building, and strategic business development. 
 
-Through this process, participants within the economic system are no longer relegated to being mere consumers. Electra returns the power to the people, and assigns members of the community an active role in the evolution of our economic and monetary systems.
+Through this process, participants within the economic system are no longer relegated to being mere consumers. Electra returns the power to the people and assigns members of the community an active role in the evolution of our economic and monetary systems.
 
 # Table of Contents
 
@@ -104,7 +104,7 @@ The end result of our efforts is the Electra Project.
 
 The Electra Project’s primary points of focus are the following:
 
-* Design and build the most cutting edge cryptocurrency
+* Design and build the most cutting-edge cryptocurrency
 
 * Create a financial ecosystem for the community
 
@@ -149,7 +149,7 @@ The underlying blockchain of the ECA coin utilizes a modified version of the NIS
 
 * Pre-mined: 1,000,000,019 (approximately 3.34%)
 
-* Difficulty Target: Retarget occurs every 15 minutes (every 3 blocks) >>> after blockchain fork >>> Retarget occurs every 15 minutes (every 10 blocks)
+* Difficulty Target: Retarget occurs every 15 minutes (every 3 blocks)
 
 * Fee: 0.00001 ECA
 
@@ -174,7 +174,7 @@ With transaction fees on the Electra network of 0.00001 ECA, it takes 100,000 tr
 
 ## Staking Rewards
 
-Currently, ECA features a 50% annual stake reward rate as an introductory rate. In order to increase the stability and longevity of the Electra Project, the annual stake reward rate will be reduced to 10% in Q3 of 2018. It will then halve to 5% the next year, and halve once more to 2.5% every year thereafter. There is no fixed reward per block. Each stake reward is proportional to the amount staked relative to the total ECA in circulation. 
+Currently, ECA features a 50% annual stake reward rate as an introductory rate. In order to increase the stability and longevity of the Electra Project, the annual stake reward rate will be reduced to 10% in Q3 of 2018. It will then halve to 5% the next year and will halve once more to 2.5% every year thereafter. There is no fixed reward per block. Each stake reward is proportional to the amount staked relative to the total ECA in circulation. 
 
 Minimum stake age: 24 hours
 
@@ -204,11 +204,11 @@ Furthermore, Electra does not have an extended Proof of Work (PoW) phase. Electr
 
 # Future Technology
 
-When you invest in ECA you become a stakeholder in a fully open source project aimed at developing the most cutting edge technology for the evolution of cryptocurrency. Investors who choose Electra will be a part of this journey. Current technology is a good starting point however, creating the cryptocurrency of the future requires going beyond the limits of existing technology. 
+When you invest in ECA you become a stakeholder in a fully open source project aimed at developing the most cutting-edge technology for the evolution of cryptocurrency. Investors who choose Electra will be a part of this journey. Current technology is a good starting point however, creating the cryptocurrency of the future requires going beyond the limits of existing technology. 
 
 The strength of Electra resides in the contract that guarantees investors full participation in the direction of the project, including all future developments and technologies. ECA’s potential growth is guaranteed because tomorrow’s ECA will not be just another coin, but rather an adaptation to future societal and economic needs. Investors can be confident that when they purchase ECA, they are investing in the present and future growth of a unique cryptocurrency ecosystem.
 
-If an algorithm emerges that is more efficient and superior to NIST5, Electra’s development team is prepared to adapt ECA’s underlying structure to maintain a competitive advantage in the market. As Electra grows, the block time can be reduced and the block size can be increased. The adaptability of ECA allows for the blockchain to be maintained while the algorithm is rewritten from scratch.
+If an algorithm emerges that is more efficient and superior to NIST5, Electra’s development team is prepared to adapt ECA’s underlying structure to maintain a competitive advantage in the market. As Electra grows the block time can be reduced and the block size can be increased. The adaptability of ECA allows for the blockchain to be maintained while the algorithm is rewritten from scratch.
 In effect, Electra is a blank paper for writing revolutionary code. Writing the code of the future on an already active codebase results in a deployed structure that neither obstructs, limits, nor hinders future development. ECA’s architecture allows a subsequent structure to intersect, connect, flank, or replace the existing structure. Electra provides a better solution than existing currencies can and guarantees the community full control.
 
 # Electra Ecosystem
@@ -304,7 +304,7 @@ Future developments within Electra’s SocialPay application are aimed at expand
 
 ## Atomic Swaps
 
-Why Atomic Swaps ?
+Why Atomic Swaps?
 
 Thousands of cryptocurrencies are currently in existence and the number continues to grow exponentially as blockchain technology is adopted. It remains a complex task to exchange one cryptocurrency for another when payment needs require different currencies. Cryptocurrency transactions are currently not reversible. This requires the use of a trusted third party to ensure that both sides of a transaction are resolved, so exchanges are used to accomplish the trading of different cryptocurrencies. The Electra community understands the need to fill this void. Atomic Swaps is the answer.
 
@@ -312,7 +312,7 @@ Electra’s atomic swap architecture generates a hash-time-locked contract, whic
 
 ![image alt text](images/image_0.png)
 
-In a two-party cryptocurrency transaction using atomic swaps on transactions on differing blockchains can occur simultaneously and can be secured by the sharing of a private code between both parties. Use of the private code by one party will only complete the transaction if the second party also uses the same private code. Failure by one party to send the agreed upon amount of currency or to enter the correct code results in cancellation of the transaction and the return of all funds to their original location. This process removes the need for trusted third party intervention.
+In a two-party cryptocurrency transaction using atomic swaps on transactions on differing blockchains can occur simultaneously and can be secured by the sharing of a private code between both parties. Use of the private code by one party will only complete the transaction if the second party also uses the same private code. Failure by one party to send the agreed upon amount of currency or to enter the correct code results in cancellation of the transaction and the return of all funds to their original location. This process removes the need for trusted third-party intervention.
 
 Imagine you want to use ECA to pay for pizza at a restaurant that accepts only Bitcoin. A complex series of operations must first take place as illustrated below:
 
@@ -446,11 +446,11 @@ The Web Interface is the front-end interface between the user and ECA Core and i
 
 * Server Interface and requests serialization
 
-    * Uses secure websockets to open communication between Electra Core and the front-end system
+    * Uses secure WebSockets to open communication between Electra Core and the front-end system
 
     * The server interface implements a transactional subsystem
 
-    * The transactional subsystem implements serialization of concurrent users requests and vice versa
+    * The transactional subsystem implements serialization of concurrent user's requests and vice versa
 
     * Transactions can be synchronous or asynchronous
 
@@ -510,7 +510,7 @@ Below you will find a truncated version of our roadmap for reference current as 
 
 * Reach 10,000 users between Discord and Telegram
 
-* Establish Team Account for Electra Project developers on Github
+* Establish Team Account for Electra Project developers on GitHub
 
 * White Paper Release
 
@@ -614,10 +614,6 @@ Master Den#8523 - Global Coordinator / Financial Pole Coordinator
 
 ## Community Governance Team
 
-Wolf#5660 - Community Governance Coordinator & Democracy Head Moderator
-
-cuban467#5290 - Democracy Moderator
-
 Asmoth#0436 - Community Governance Coordinator & Democracy Moderator
 
 Ryu#9160 - Democracy Head Planner
@@ -699,8 +695,6 @@ nashsclay#6809 - User Support Coordinator
 pbp8ntballer#1492 - Communications Coordinator
 
 UnderTow#7302 - Editor In Chief 
-
-Wolf#5660 - Community Governance Coordinator
 
 ## Marketing
 
@@ -838,6 +832,28 @@ DigitalByte#2118 - Junior Developer
 
 Irfaan#8592 - Strategy Pole Coordinator & Lead Strategy Manager
 
+Dominica#6457 - Strategist
+
+JuanU#9969 - Strategist
+
+Aali#9431 - Strategist
+
+Albert_#1568 - Strategist
+
+blocklogic#4833 - Strategist
+
+shabbir#9096 - Strategist
+
+MarkF#22792 - Strategist
+
+Nahas#4779 - Strategist
+
+Sumit#1880 - Strategist
+
+tommyh#5438 - Strategist
+
+uzi22#1029 - Strategist
+
 ## Translation Team
 
 ChamoLapik#6080 - French translator
@@ -916,6 +932,17 @@ Ethano#6979 - User Support Specialist
 
 shimato (ECA User Support)#8814 - User Support Specialist
 
+Jake#9539 - User Support Specialist
+
+M11 ( User Support )#0423 - User Support Specialist
+
+modywahidi#4316 - User Support Specialist
+
+SachitKwatra#4082 - User Support Specialist
+
+Mrs.Bitmaid#9028 - User Support Specialist
+
+zusama59#6384 - User Support Specialist
 
 # Founder’s Vision
 
@@ -927,12 +954,12 @@ shimato (ECA User Support)#8814 - User Support Specialist
 
 # The Open Paper
 
-This White Paper does not end here. Electra’s White Paper is the beginning of a much more comprehensive shared document known as an “Open Paper”. The Open Paper will be the reference technical sheet for the Electra Project and will be open to contributors to ensure ongoing development. The Open Paper is available on Github within the official Electra Project page and is available for all who wish to contribute to the growth of the project. 
+This White Paper does not end here. Electra’s White Paper is the beginning of a much more comprehensive shared document known as an “Open Paper”. The Open Paper will be the reference technical sheet for the Electra Project and will be open to contributors to ensure ongoing development. The Open Paper is available on GitHub within the official Electra Project page and is available for all who wish to contribute to the growth of the project. 
 
 [https://github.com/Electra-project/Electra-Open-Paper/blob/master/ElectraWhitePaper-TheOpenPaper.md](https://github.com/Electra-project/Electra-Open-Paper/blob/master/ElectraWhitePaper-TheOpenPaper.md).
 
 The Electra Community, in collaboration with Electra’s Core Team, is committed to reviewing and updating the Open Paper and implementing additional proposals and projects on a monthly basis, starting with the release of our White Paper.
-Every user is called upon to contribute. If you disagree with suggestions proposed please feel free to express your opinion and provide your constructive criticism. Your input and feedback are the driving force behind Electra’s development.
+Every user is called upon to contribute. If you disagree with suggestions proposed, please feel free to express your opinion and provide your constructive criticism. Your input and feedback are the driving force behind Electra’s development.
 
 Next White Paper Update: February 28, 2018
 
@@ -947,9 +974,9 @@ All Rights Reserved. Permission to use, copy, modify, and distribute this softwa
 Contact The Electra Development Team dev@electraproject.org for commercial
 licensing opportunities.
 
-IN NO EVENT SHALL ELECTRA BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, ARISING OUT OF THE USE OF THIS SOFTWARE AND ITS DOCUMENTATION, EVEN IF  ELECTRA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+IN NO EVENT SHALL ELECTRA BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, ARISING OUT OF THE USE OF THIS SOFTWARE AND ITS DOCUMENTATION, EVEN IF ELECTRA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-ELECTRA SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE SOFTWARE (WALLET) AND ACCOMPANYING DOCUMENTATION, IF ANY, PROVIDED HEREUNDER IS PROVIDED "AS IS". ELECTRA HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS. CONTENT PROVIDED THROUGH THIS WEBSITE AND ITS SIDE RESOURCES ARE FOR INFORMATION PURPOSES ONLY AND SHALL NOT BE LIABLE FOR ANY INACCURACIES,TYPOGRAPHICAL MISTAKES.
+ELECTRA SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE SOFTWARE (WALLET) AND ACCOMPANYING DOCUMENTATION, IF ANY, PROVIDED HEREUNDER IS PROVIDED "AS IS". ELECTRA HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS. CONTENT PROVIDED THROUGH THIS WEBSITE AND ITS SIDE RESOURCES ARE FOR INFORMATION PURPOSES ONLY AND SHALL NOT BE LIABLE FOR ANY INACCURACIES, TYPOGRAPHICAL MISTAKES.
 
 WE THEREFORE HOLD NO RESPONSIBILITY, LIABILITY FOR YOUR USE OF THIS WHITE PAPER AND ITS CONTENT.
 
