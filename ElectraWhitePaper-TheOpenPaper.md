@@ -174,7 +174,7 @@ With transaction fees on the Electra network of 0.00001 ECA, it takes 100,000 tr
 
 ## Staking Rewards
 
-Currently, ECA features a 50% annual stake reward rate as an introductory rate. In order to increase the stability and longevity of the Electra Project, the annual stake reward rate will be reduced to 10% in Q3 of 2018. It will then halve to 5% the next year and will halve once more to 2.5% every year thereafter. There is no fixed reward per block. Each stake reward is proportional to the amount staked relative to the total ECA in circulation. 
+Currently, ECA features a 50% annual stake reward rate as an introductory rate. In order to increase the stability and longevity of the Electra Project, the annual stake reward rate will be reduced to 10% in Q3 of 2018. After the staking reward reduces to 10%, it will halve to 5% the following year, and 2.5% every year thereafter. There is no fixed reward per block. Each stake reward is proportional to the amount staked relative to the total ECA in circulation. 
 
 Minimum stake age: 24 hours
 
