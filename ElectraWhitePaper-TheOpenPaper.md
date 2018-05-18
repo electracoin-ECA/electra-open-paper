@@ -4,7 +4,7 @@
 
 ### Abstract
 
-Electra is an open-source community cryptocurrency project featuring decentralized and distributed governance. Electra’s foundation is a blockchain based on the NIST5 algorithm, guaranteeing fast and secure transactions with nearly non-existent transaction costs.
+Electra is an open source community-driven cryptocurrency project featuring decentralized and distributed governance. Electra’s foundation is a blockchain based on the NIST5 algorithm, guaranteeing fast and secure transactions with nearly non-existent transaction costs.
 
 Electra’s goal is to become the electric current of the cryptocurrency community. Our vision is to advance the evolution of our economic system as originally proposed by Satoshi Nakamoto.
 
@@ -174,7 +174,7 @@ With transaction fees on the Electra network of 0.00001 ECA, it takes 100,000 tr
 
 ## Staking Rewards
 
-Currently, ECA features a 50% annual stake reward rate as an introductory rate. In order to increase the stability and longevity of the Electra Project, the annual stake reward rate will be reduced to 10% in Q3 of 2018, will halve to 5% the next year, and then to 2.5% every year thereafter. There is no fixed reward per block. Each stake reward is proportional to the amount staked relative to the total ECA in circulation. 
+Currently, ECA features a 50% annual stake reward rate as an introductory rate. In order to increase the stability and longevity of the Electra Project, the annual stake reward rate will be reduced to 10% in Q3 of 2018. It will then halve to 5% the next year, and halve once more to 2.5% every year thereafter. There is no fixed reward per block. Each stake reward is proportional to the amount staked relative to the total ECA in circulation. 
 
 Minimum stake age: 24 hours
 
@@ -209,7 +209,7 @@ When you invest in ECA you become a stakeholder in a fully open source project a
 The strength of Electra resides in the contract that guarantees investors full participation in the direction of the project, including all future developments and technologies. ECA’s potential growth is guaranteed because tomorrow’s ECA will not be just another coin, but rather an adaptation to future societal and economic needs. Investors can be confident that when they purchase ECA, they are investing in the present and future growth of a unique cryptocurrency ecosystem.
 
 If an algorithm emerges that is more efficient and superior to NIST5, Electra’s development team is prepared to adapt ECA’s underlying structure to maintain a competitive advantage in the market. As Electra grows, the block time can be reduced and the block size can be increased. The adaptability of ECA allows for the blockchain to be maintained while the algorithm is rewritten from scratch.
-In effect, Electra is a blank paper for writing revolutionary code. Writing the code of the future on an already active codebase results in a deployed structure that neither obstructs, limits, nor hinders future development. ECA’s architecture allows a subsequent structure to intersect, connect, flank or replace the existing structure. Electra provides a better solution than existing currencies can and guarantees the community full control.
+In effect, Electra is a blank paper for writing revolutionary code. Writing the code of the future on an already active codebase results in a deployed structure that neither obstructs, limits, nor hinders future development. ECA’s architecture allows a subsequent structure to intersect, connect, flank, or replace the existing structure. Electra provides a better solution than existing currencies can and guarantees the community full control.
 
 # Electra Ecosystem
 
@@ -498,7 +498,7 @@ Below you will find a truncated version of our roadmap for reference current as 
 
 * Development of online communities and social media pages dedicated to Electra
 
-* Complete the roadmap, new website and new block explorer
+* Complete the roadmap, new website, and new block explorer
 
 * Reach 2,000 users on Telegram
 
@@ -514,9 +514,7 @@ Below you will find a truncated version of our roadmap for reference current as 
 
 * White Paper Release
 
-## Planned Goals and Objectives
-
-**Q1 2018:**
+* Enable Testnet on blockchain
 
 * Commence ElectraPay project development
 
@@ -539,6 +537,8 @@ Below you will find a truncated version of our roadmap for reference current as 
     * Listings on new exchanges
 
     * Target new merchants: Several new merchant contacts will be started in order to expand the usage of Electra during daily operations
+    
+    ## Planned Goals and Objectives
 
 **Q2 2018**
 
@@ -582,11 +582,11 @@ Below you will find a truncated version of our roadmap for reference current as 
 
 # Electra Team
 
-The Electra Community is rapidly expanding and organizing in new ways. During the next few weeks all active members of the Management & Development Team and their qualifications will be added to the official Electra Project website.
+The Electra Community is rapidly expanding and organizing in new ways. All active members of the Management & Development Team and their qualifications will be continually added to the official Electra Project website.
 
 [https://electraproject.org/our-team](https://electraproject.org/our-team).   
 
-Join Electra’s Discord server and meet our community of developers, contributors, moderators, Electrans and community members. Decisions regarding team membership are made by community consensus. 
+Join Electra’s Discord server and meet our community of developers, contributors, moderators, Electrans, and community members. Decisions regarding team membership are made by community consensus. 
 
 * [https://discord.gg/XP7nShh](https://discord.gg/XP7nShh)
 
@@ -596,21 +596,21 @@ Our list of team members is subject to change based on the needs and desires of 
 
 The Electra Community is a large and diverse group of talented individuals. We have recently restructured our team in order to better organize and complete future goals of the Electra Project. We are a collection of dedicated members with brilliant minds, extensive experience, and a passion for blockchain technology, working towards the advancement of the cryptocurrency industry. Below is the new organization of our backend-development team, responsible for the progression of the Electra Project. 
 
+## Founder
+
+E01#3675 - Electra Founder & Developer
+
 ## Global Coordination
 
-Ivan#9565- Global Coordinator
+Ivan#9565- Global Coordinator / Lead Developer
 
 Renat_77#0464- Global Coordinator
 
 ECA Mom#7044- Global Coordinator
 
-Asmoth#0436 - Global Coordinator/ Community Governance Coordinator
+Asmoth#0436 - Global Coordinator / Community Governance Coordinator
 
-Master Den#8523 - Global Coordinator/ Financial Pole Coordinator
-
-## Founder
-
-E01#3675 - Electra Founder & Developer
+Master Den#8523 - Global Coordinator / Financial Pole Coordinator
 
 ## Community Governance Team
 
@@ -640,17 +640,23 @@ Prophet Cable#8792 - 3D Animator
 
 ECA Link#2068 - Design & Content Coordinator Illustrator/Designer
 
-Zukunft#3000 - Design & Content Coordinator & Brand Strategist
-
 Frank Castle#0420 - Artistic Designer
 
 freematikk#9191 - Graphic Designer
 
 CoinKovala#1946 - Graphic Designer
 
-reqviem#3378 - Designer
+reqviem#3378 - Graphic Designer
 
-Xalyn#1371 - Designer
+Xalyn#1371 - Graphic Designer
+
+Capitaine Haddock#4554 - Graphic Designer
+
+KUBAGraphics#7502 - Graphic Designer
+
+ECAMakreel#0639 - Graphic Designer
+
+wbvg 🎡 ⛩#5795 - Graphic Designer
 
 jacuzzi#8193 - Musical Composer/ Audio Engineer
 
@@ -658,7 +664,7 @@ From_Shrimp_To_Whale#9590 - Photograph/ Photo Editor
 
 Guv’nah#0565 - writer
 
-Zoras#9628 - writer
+Zoras#9628 - Graphic Designer & writer
 
 ## Coordination
 
@@ -668,15 +674,15 @@ The revolution#7705 - International Embassy Coordinator
 
 RobertBakker#4126 - International Embassy Coordinator
 
-Master Den#8523 - Exchanges Manager Financial Pole Coordinator
+Master Den#8523 - Exchanges Manager & Financial Pole Coordinator
 
-Daemon#1337 - Digital Marketing Coordinator
+Daemon#1337 - Marketing Coordinator
 
 ECA Link#2068 - Design & Content Coordinator
 
 Irfaan#8592 - Lead Strategy Manager Strategy Pole Coordinator
 
-Maverick#8909 - Digital Marketing Coordinator & Marketing Officer
+Maverick#8909 - Marketing Coordinator & Marketing Officer
 
 Miley Cyrus#8370 - Electra Newsroom Coordinator
 
@@ -696,9 +702,9 @@ UnderTow#7302 - Editor In Chief
 
 Wolf#5660 - Community Governance Coordinator
 
-## Digital Marketing
+## Marketing
 
-Daemon#1337 - Digital Marketing Coordinator & Digital Marketing Lead
+Daemon#1337 - Marketing Coordinator & Marketing Lead
 
 jartsa#4529 - Community Editor
 
@@ -710,7 +716,7 @@ Tal Rasha#1949 - Marketing Strategist
 
 VisQi#3062 - Marketing Officer
 
-Maverick#8909 - Digital Marketing Coordinator & Marketing Officer
+Maverick#8909 - Marketing Coordinator & Marketing Officer
 
 ## Developing IT
 
@@ -736,13 +742,13 @@ Master Den#8523 - Financial Pole Coordinator & Exchanges Manager
 
 ## International Embassy
 
-The revolution#7705 - IE Coordinator
+The revolution#7705 - IE Coordinator & Netherlands Ambassador
 
-RobertBakker#4126 - IE Coordinator
+RobertBakker#4126 - IE Coordinator & Netherlands Ambassador
 
 OKaxstonIM#3578 - Indonesia Ambassador
 
-Joko4ko2#0927 - Indonesia Ambassador
+joko4ko2#0927 - Indonesia Ambassador
 
 Cpoer2011#5916 - Indonesia Ambassador
 
@@ -752,19 +758,19 @@ Eca Turtle#0470 - Switzerland Ambassador
 
 [ECA] L#1501 - China Ambassador
 
-RobertBakker#4126 - The Netherlands Ambassador
-
-The Revolution#7705 - The Netherlands Ambassador
-
 La chèvre de Wall Street#2095 - France Ambassador
 
 ECA Ricouskim#8141 - France Ambassador
 
-The Electran#4343 - United Kingdom Ambassador
+Leo Crypto#9384 - Austria Ambassador
+
+ElectraSpirit#1263 - Australia Ambassador
 
 scabboy#4229 - Australia Ambassador
 
-Alfm27#1080 - United Kingdom Ambassador
+ECA Wayne#1766 - Australia Ambassador
+
+alfm27#1080 - United Kingdom Ambassador
 
 Smithandcobuild#3500 - United States Ambassador
 
@@ -776,6 +782,11 @@ Giancarlo#9071 - Mexico Ambassador
 
 dofus bis#5316 - France Ambassador
 
+Balbarom#2307 - Iran Ambassador
+
+NickPapagiorgio#3500 - United States Ambassador
+
+a06mills13#5728 - United States Ambassador
 
 ## Editorial Team
 
@@ -785,11 +796,11 @@ JayAcheSee#2647 - Writer, Proofreader, & Copywriter
 
 BICLOPS#4181 - Writer, Proofreader, & Copywriter
 
-## Sales Task Force
+## Merchant Outreach
 
-Zarag#2781- Sales Manager
+Zarag#2781- Merchant Manager
 
-teak38#3024- Sales Manager
+teak38#3024- Merchant Manager
 
 ## Software Development
 
@@ -800,8 +811,6 @@ Boiiii#7402 - Lead Developer
 Ivan#9565 - Lead Developer
 
 mdt#9530 - Blockchain Consultant
-
-thomasotter#0672 - Designer & UX Designer
 
 bumba# - Developer
 
@@ -824,7 +833,6 @@ RajinM#4265 - Developer
 tunguyen#4406 - Developer
 
 DigitalByte#2118 - Junior Developer
-
 
 ## Strategy Pole
 
@@ -860,8 +868,6 @@ alexraccc#1227 - Romanian translator
 
 Andrei#8968 - Romanian translator
 
-The revolution#7705 - IE Coordinator & Dutch translator
-
 Ethereater#2241 - Dutch translator
 
 StillChill#1824 - Dutch translator
@@ -895,6 +901,20 @@ MadAreYou#6263- User Support Specialist
 Geralt of Rivia#6290- User Support Specialist
 
 mECAmind#3719 - User Support Specialist
+
+cryptonaut(User Support Manager)#8743 - User Support Manager 
+
+Yush#3976 - User Support Specialist
+
+Jenova (User Support) FR#8529 - User Support Specialist
+
+mikeymikehill (User Support)#4016 - User Support Specialist
+
+doobe01#5845 - User Support Specialist
+
+Ethano#6979 - User Support Specialist
+
+shimato (ECA User Support)#8814 - User Support Specialist
 
 
 # Founder’s Vision
