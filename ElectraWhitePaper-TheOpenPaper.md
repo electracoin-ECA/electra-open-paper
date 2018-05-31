@@ -588,7 +588,7 @@ The Electra Community is rapidly expanding and organizing in new ways. All activ
 
 Join Electra’s Discord server and meet our community of developers, contributors, moderators, Electrans, and community members. Decisions regarding team membership are made by community consensus. 
 
-* [https://discord.gg/XP7nShh](https://discord.gg/XP7nShh)
+* [https://discordapp.com/invite/B8F7Jdv](https://discordapp.com/invite/B8F7Jdv)
 
 Our list of team members is subject to change based on the needs and desires of the community.
 
@@ -788,7 +788,7 @@ UnderTow#7302 - Editor In Chief
 
 JayAcheSee#2647 - Writer, Proofreader, & Copywriter
 
-BICLOPS#4181 - Writer, Proofreader, & Copywriter
+ECA Movement#9302 - Writer, Proofreader, & Copywriter
 
 ## Merchant Outreach
 
